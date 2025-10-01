@@ -45,6 +45,7 @@
     --sidebar-accent-foreground: 240 5.9% 10%;
     --sidebar-border: 220 13% 91%;
     --sidebar-ring: 217.2 91.2% 59.8%;
+    --cosmic-bg: #000;
   }
   .dark {
     --background: 0 0% 3.9%;
@@ -89,4 +90,214 @@
   body {
     @apply bg-background text-foreground;
   }
+}
+
+@layer components {
+  .cosmic-screen {
+    @apply min-h-screen bg-[var(--cosmic-bg)] text-slate-200;
+  }
+
+  .cosmic-section {
+    @apply px-4 md:px-6 py-6 space-y-2 rounded-lg bg-white/5 backdrop-blur-sm;
+  }
+
+  @screen lg {
+    .cosmic-section {
+      @apply px-0 bg-transparent backdrop-blur-0 rounded-none shadow-none border-none space-y-3;
+    }
+  }
+
+  .cosmic-heading {
+    @apply text-xs font-semibold uppercase tracking-[0.4em] text-cyan-400;
+  }
+
+  .cosmic-list {
+    @apply pl-3 space-y-2 leading-relaxed text-sm list-disc marker:text-cyan-400;
+  }
+
+  .cosmic-links {
+    @apply inline-flex w-full justify-between text-xs uppercase tracking-wide;
+  }
+
+  .cosmic-links a {
+    @apply underline-offset-4 decoration-transparent hover:underline;
+  }
+
+  .cosmic-widget {
+    @apply mt-6 flex justify-center rounded-lg bg-white/5 backdrop-blur-sm p-4 lg:p-6 lg:items-center lg:justify-center;
+    transform: translateZ(0);
+    will-change: contents;
+    image-rendering: -webkit-optimize-contrast;
+    image-rendering: crisp-edges;
+    contain: strict;
+    width: 100%;
+    max-width: min(100vw - 2rem, 640px);
+    min-height: 18rem;
+  }
+
+  @screen md {
+    .cosmic-widget {
+      max-width: min(95vw, 640px);
+    }
+  }
+
+  @screen lg {
+    .cosmic-widget {
+      @apply mt-0;
+      max-width: min(80vw, 1080px);
+    }
+  }
+
+  @screen xl {
+    .cosmic-widget {
+      max-width: min(72vw, 1280px);
+    }
+  }
+
+  @screen 2xl {
+    .cosmic-widget {
+      max-width: min(65vw, 1440px);
+    }
+  }
+
+  .cosmic-widget pre {
+    @apply font-mono text-[10px] leading-[1.15] text-slate-100 whitespace-pre px-2;
+    font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', monospace;
+    font-kerning: none;
+    font-variant-ligatures: none;
+    font-feature-settings: "kern" 0, "liga" 0;
+    scroll-behavior: smooth;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeSpeed;
+    shape-rendering: crispEdges;
+    contain: layout style paint;
+    width: 100%;
+    height: 100%;
+    min-height: 18rem;
+  }
+
+  @screen sm {
+    .cosmic-widget pre {
+      font-size: 11px;
+      line-height: 1.15;
+      min-height: 22rem;
+    }
+  }
+
+  @screen lg {
+    .cosmic-widget pre {
+      font-size: 13px;
+      line-height: 1.1;
+      min-height: 30rem;
+    }
+  }
+
+  @screen xl {
+    .cosmic-widget pre {
+      font-size: 14px;
+      line-height: 1.1;
+      min-height: 34rem;
+    }
+  }
+
+  @screen 2xl {
+    .cosmic-widget pre {
+      font-size: 15px;
+      line-height: 1.05;
+      min-height: 38rem;
+    }
+  }
+}
+
+@layer utilities {
+  .gpu-accelerate {
+    transform: translateZ(0);
+    backface-visibility: hidden;
+    perspective: 1000px;
+  }
+
+  .animation-container {
+    will-change: transform;
+    contain: layout style paint;
+  }
+
+  .high-performance-anim {
+    animation-timing-function: linear;
+    transform: translateZ(0);
+  }
+
+  .stagger-anim > * {
+    animation-fill-mode: both;
+  }
+
+  .stagger-anim > *:nth-child(odd) {
+    animation-duration: 15s;
+  }
+
+  .stagger-anim > *:nth-child(even) {
+    animation-duration: 17s;
+  }
+
+  .perf-optimize {
+    transform: translateZ(0);
+    backface-visibility: hidden;
+    perspective: 1000px;
+  }
+
+  .no-layout-shift {
+    contain: layout style paint;
+  }
+
+  .smooth-transitions {
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  }
+
+  @media (prefers-reduced-motion: no-preference) {
+    .high-refresh-optimize {
+      animation-duration: 16.67ms;
+    }
+    html {
+      scroll-behavior: smooth;
+    }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    * {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+    }
+  }
+}
+
+@layer utilities {
+  @media (prefers-reduced-motion: reduce) {
+    .cosmic-anim {
+      animation: none !important;
+    }
+  }
+}
+
+@keyframes cosmic-swirl {
+  0% {
+    transform: rotate(0deg) scale(1);
+    opacity: 0.85;
+  }
+  50% {
+    transform: rotate(180deg) scale(1.02);
+    opacity: 1;
+  }
+  100% {
+    transform: rotate(360deg) scale(1);
+    opacity: 0.85;
+  }
+}
+
+.cosmic-anim-swirl {
+  animation: cosmic-swirl 15s linear infinite;
+}
+
+.cosmic-anim-swirl > * {
+  animation-delay: calc(var(--index, 0) * 0.2s);
 }

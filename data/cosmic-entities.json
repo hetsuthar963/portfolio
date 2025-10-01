@@ -4,7 +4,11 @@
       "id": 1,
       "name": "PERSEID METEOR SHOWER",
       "type": "meteoroid",
-      "colorPalette": { "primary": "#C0C0C0", "secondary": "#FFFFFF", "accent": "#808080" },
+      "colorPalette": {
+        "primary": "#F97676",
+        "secondary": "#F8BF96",
+        "accent": "#F9EFBD"
+      },
       "animationStyle": "drift",
       "duration": 5000
     },
@@ -12,7 +16,11 @@
       "id": 2,
       "name": "HALLEY'S COMET",
       "type": "comet",
-      "colorPalette": { "primary": "#87CEEB", "secondary": "#FFFFFF", "accent": "#4682B4" },
+      "colorPalette": {
+        "primary": "#76F99C",
+        "secondary": "#96F8DB",
+        "accent": "#BDF2F9"
+      },
       "animationStyle": "drift",
       "duration": 6000
     },
@@ -20,7 +28,11 @@
       "id": 3,
       "name": "CYGNUS X-1 BLACK HOLE",
       "type": "blackhole",
-      "colorPalette": { "primary": "#000033", "secondary": "#00BFFF", "accent": "#1E90FF" },
+      "colorPalette": {
+        "primary": "#C376F9",
+        "secondary": "#F896F8",
+        "accent": "#F9BDE0"
+      },
       "animationStyle": "swirl",
       "duration": 7000
     },
@@ -28,7 +40,11 @@
       "id": 4,
       "name": "SAGITTARIUS A* SUPERMASSIVE BLACK HOLE",
       "type": "blackhole",
-      "colorPalette": { "primary": "#000000", "secondary": "#FF4500", "accent": "#FF6347" },
+      "colorPalette": {
+        "primary": "#F9E976",
+        "secondary": "#DBF896",
+        "accent": "#CFF9BD"
+      },
       "animationStyle": "swirl",
       "duration": 8000
     },
@@ -36,7 +52,11 @@
       "id": 5,
       "name": "OUR SUN (SOL)",
       "type": "sun",
-      "colorPalette": { "primary": "#FFD700", "secondary": "#FFA500", "accent": "#FF8C00" },
+      "colorPalette": {
+        "primary": "#76E3F9",
+        "secondary": "#96BFF8",
+        "accent": "#BDBDF9"
+      },
       "animationStyle": "pulse",
       "duration": 5000
     },
@@ -44,7 +64,11 @@
       "id": 6,
       "name": "BETELGEUSE RED SUPERGIANT",
       "type": "star",
-      "colorPalette": { "primary": "#FF4500", "secondary": "#FF6347", "accent": "#DC143C" },
+      "colorPalette": {
+        "primary": "#F976BD",
+        "secondary": "#F896A2",
+        "accent": "#F9CFBD"
+      },
       "animationStyle": "pulse",
       "duration": 6000
     },
@@ -52,7 +76,11 @@
       "id": 7,
       "name": "SIRIUS BINARY STAR",
       "type": "star",
-      "colorPalette": { "primary": "#FFFFFF", "secondary": "#E0FFFF", "accent": "#B0E0E6" },
+      "colorPalette": {
+        "primary": "#97F976",
+        "secondary": "#96F8A6",
+        "accent": "#BDF9E0"
+      },
       "animationStyle": "twinkle",
       "duration": 5000
     },
@@ -60,7 +88,11 @@
       "id": 8,
       "name": "RIGEL BLUE SUPERGIANT",
       "type": "star",
-      "colorPalette": { "primary": "#4169E1", "secondary": "#6495ED", "accent": "#87CEEB" },
+      "colorPalette": {
+        "primary": "#7C76F9",
+        "secondary": "#C396F8",
+        "accent": "#F2BDF9"
+      },
       "animationStyle": "twinkle",
       "duration": 5000
     },
@@ -68,7 +100,11 @@
       "id": 9,
       "name": "CRAB PULSAR",
       "type": "pulsar",
-      "colorPalette": { "primary": "#00FF00", "secondary": "#32CD32", "accent": "#7FFF00" },
+      "colorPalette": {
+        "primary": "#F9A276",
+        "secondary": "#F8E096",
+        "accent": "#EFF9BD"
+      },
       "animationStyle": "pulse",
       "duration": 4000
     },
@@ -76,7 +112,11 @@
       "id": 10,
       "name": "VELA PULSAR",
       "type": "pulsar",
-      "colorPalette": { "primary": "#00CED1", "secondary": "#40E0D0", "accent": "#48D1CC" },
+      "colorPalette": {
+        "primary": "#76F9C8",
+        "secondary": "#96F4F8",
+        "accent": "#BDDEF9"
+      },
       "animationStyle": "pulse",
       "duration": 4000
     },
@@ -84,7 +124,11 @@
       "id": 11,
       "name": "ORION NEBULA (M42)",
       "type": "nebula",
-      "colorPalette": { "primary": "#FF1493", "secondary": "#FF69B4", "accent": "#FFB6C1" },
+      "colorPalette": {
+        "primary": "#EF76F9",
+        "secondary": "#F896D7",
+        "accent": "#F9BDCC"
+      },
       "animationStyle": "wave",
       "duration": 8000
     },
@@ -92,7 +136,11 @@
       "id": 12,
       "name": "EAGLE NEBULA (M16)",
       "type": "nebula",
-      "colorPalette": { "primary": "#8B4513", "secondary": "#D2691E", "accent": "#CD853F" },
+      "colorPalette": {
+        "primary": "#DEF976",
+        "secondary": "#BAF896",
+        "accent": "#BDF9C0"
+      },
       "animationStyle": "wave",
       "duration": 8000
     },
@@ -100,7 +148,11 @@
       "id": 13,
       "name": "HORSEHEAD NEBULA",
       "type": "nebula",
-      "colorPalette": { "primary": "#2F4F4F", "secondary": "#696969", "accent": "#A9A9A9" },
+      "colorPalette": {
+        "primary": "#76B7F9",
+        "secondary": "#969EF8",
+        "accent": "#D1BDF9"
+      },
       "animationStyle": "drift",
       "duration": 7000
     },
@@ -108,7 +160,11 @@
       "id": 14,
       "name": "RING NEBULA (M57)",
       "type": "nebula",
-      "colorPalette": { "primary": "#9370DB", "secondary": "#BA55D3", "accent": "#DA70D6" },
+      "colorPalette": {
+        "primary": "#F97691",
+        "secondary": "#F8AA96",
+        "accent": "#F9E3BD"
+      },
       "animationStyle": "pulse",
       "duration": 6000
     },
@@ -116,7 +172,11 @@
       "id": 15,
       "name": "HELIX NEBULA",
       "type": "nebula",
-      "colorPalette": { "primary": "#00CED1", "secondary": "#20B2AA", "accent": "#48D1CC" },
+      "colorPalette": {
+        "primary": "#76F981",
+        "secondary": "#96F8C7",
+        "accent": "#BDF9F4"
+      },
       "animationStyle": "pulse",
       "duration": 7000
     },
@@ -124,7 +184,11 @@
       "id": 16,
       "name": "MILKY WAY GALAXY",
       "type": "galaxy",
-      "colorPalette": { "primary": "#8A2BE2", "secondary": "#9370DB", "accent": "#BA55D3" },
+      "colorPalette": {
+        "primary": "#A776F9",
+        "secondary": "#E496F8",
+        "accent": "#F9BDED"
+      },
       "animationStyle": "swirl",
       "duration": 9000
     },
@@ -132,7 +196,11 @@
       "id": 17,
       "name": "ANDROMEDA GALAXY (M31)",
       "type": "galaxy",
-      "colorPalette": { "primary": "#4B0082", "secondary": "#6A5ACD", "accent": "#7B68EE" },
+      "colorPalette": {
+        "primary": "#F9CE76",
+        "secondary": "#F0F896",
+        "accent": "#DBF9BD"
+      },
       "animationStyle": "swirl",
       "duration": 9000
     },
@@ -140,7 +208,11 @@
       "id": 18,
       "name": "WHIRLPOOL GALAXY (M51)",
       "type": "galaxy",
-      "colorPalette": { "primary": "#FF1493", "secondary": "#FF69B4", "accent": "#FFB6C1" },
+      "colorPalette": {
+        "primary": "#76F9F4",
+        "secondary": "#96D3F8",
+        "accent": "#BDCAF9"
+      },
       "animationStyle": "swirl",
       "duration": 8000
     },
@@ -148,7 +220,11 @@
       "id": 19,
       "name": "SOMBRERO GALAXY (M104)",
       "type": "galaxy",
-      "colorPalette": { "primary": "#8B4513", "secondary": "#A0522D", "accent": "#CD853F" },
+      "colorPalette": {
+        "primary": "#F976D8",
+        "secondary": "#F896B6",
+        "accent": "#F9C2BD"
+      },
       "animationStyle": "drift",
       "duration": 7000
     },
@@ -156,7 +232,11 @@
       "id": 20,
       "name": "PINWHEEL GALAXY (M101)",
       "type": "galaxy",
-      "colorPalette": { "primary": "#00CED1", "secondary": "#40E0D0", "accent": "#7FFFD4" },
+      "colorPalette": {
+        "primary": "#B2F976",
+        "secondary": "#99F896",
+        "accent": "#BDF9D4"
+      },
       "animationStyle": "swirl",
       "duration": 8000
     },
@@ -164,7 +244,11 @@
       "id": 21,
       "name": "MESSIER 87 ELLIPTICAL GALAXY",
       "type": "galaxy",
-      "colorPalette": { "primary": "#FFD700", "secondary": "#FFA500", "accent": "#FF8C00" },
+      "colorPalette": {
+        "primary": "#768BF9",
+        "secondary": "#AE96F8",
+        "accent": "#E5BDF9"
+      },
       "animationStyle": "pulse",
       "duration": 7000
     },
@@ -172,7 +256,11 @@
       "id": 22,
       "name": "PLEIADES STAR CLUSTER (M45)",
       "type": "cluster",
-      "colorPalette": { "primary": "#87CEEB", "secondary": "#B0E0E6", "accent": "#ADD8E6" },
+      "colorPalette": {
+        "primary": "#F98776",
+        "secondary": "#F8CB96",
+        "accent": "#F9F7BD"
+      },
       "animationStyle": "twinkle",
       "duration": 6000
     },
@@ -180,7 +268,11 @@
       "id": 23,
       "name": "OMEGA CENTAURI GLOBULAR CLUSTER",
       "type": "cluster",
-      "colorPalette": { "primary": "#FFD700", "secondary": "#FFFF00", "accent": "#FFFFE0" },
+      "colorPalette": {
+        "primary": "#76F9AD",
+        "secondary": "#96F8E8",
+        "accent": "#BDEAF9"
+      },
       "animationStyle": "twinkle",
       "duration": 7000
     },
@@ -188,7 +280,11 @@
       "id": 24,
       "name": "HYADES OPEN CLUSTER",
       "type": "cluster",
-      "colorPalette": { "primary": "#FFA500", "secondary": "#FFB347", "accent": "#FFDAB9" },
+      "colorPalette": {
+        "primary": "#D376F9",
+        "secondary": "#F896EC",
+        "accent": "#F9BDD9"
+      },
       "animationStyle": "twinkle",
       "duration": 5000
     },
@@ -196,7 +292,11 @@
       "id": 25,
       "name": "3C 273 QUASAR",
       "type": "quasar",
-      "colorPalette": { "primary": "#FF00FF", "secondary": "#FF1493", "accent": "#FF69B4" },
+      "colorPalette": {
+        "primary": "#F9F976",
+        "secondary": "#CFF896",
+        "accent": "#C7F9BD"
+      },
       "animationStyle": "pulse",
       "duration": 6000
     },
@@ -204,7 +304,11 @@
       "id": 26,
       "name": "CRAB NEBULA SUPERNOVA REMNANT",
       "type": "supernova",
-      "colorPalette": { "primary": "#FF4500", "secondary": "#FF6347", "accent": "#FFA07A" },
+      "colorPalette": {
+        "primary": "#76D3F9",
+        "secondary": "#96B2F8",
+        "accent": "#C5BDF9"
+      },
       "animationStyle": "wave",
       "duration": 7000
     },
@@ -212,7 +316,11 @@
       "id": 27,
       "name": "CASSIOPEIA A SUPERNOVA REMNANT",
       "type": "supernova",
-      "colorPalette": { "primary": "#00FF00", "secondary": "#7FFF00", "accent": "#ADFF2F" },
+      "colorPalette": {
+        "primary": "#F976AC",
+        "secondary": "#F89696",
+        "accent": "#F9D7BD"
+      },
       "animationStyle": "wave",
       "duration": 7000
     },
@@ -220,7 +328,11 @@
       "id": 28,
       "name": "KEPLER-452B EXOPLANET",
       "type": "exoplanet",
-      "colorPalette": { "primary": "#4169E1", "secondary": "#6495ED", "accent": "#87CEEB" },
+      "colorPalette": {
+        "primary": "#86F976",
+        "secondary": "#96F8B3",
+        "accent": "#BDF9E8"
+      },
       "animationStyle": "drift",
       "duration": 5000
     },
@@ -228,7 +340,11 @@
       "id": 29,
       "name": "PROXIMA CENTAURI B",
       "type": "exoplanet",
-      "colorPalette": { "primary": "#DC143C", "secondary": "#FF6347", "accent": "#FFA07A" },
+      "colorPalette": {
+        "primary": "#8C76F9",
+        "secondary": "#CF96F8",
+        "accent": "#F9BDF9"
+      },
       "animationStyle": "drift",
       "duration": 5000
     },
@@ -236,7 +352,11 @@
       "id": 30,
       "name": "SATURN'S RINGS",
       "type": "rings",
-      "colorPalette": { "primary": "#F4A460", "secondary": "#DEB887", "accent": "#D2B48C" },
+      "colorPalette": {
+        "primary": "#F9B376",
+        "secondary": "#F8EC96",
+        "accent": "#E8F9BD"
+      },
       "animationStyle": "drift",
       "duration": 6000
     },
@@ -244,7 +364,11 @@
       "id": 31,
       "name": "TON 618 HYPERMASSIVE BLACK HOLE",
       "type": "blackhole",
-      "colorPalette": { "primary": "#000000", "secondary": "#1A1A1A", "accent": "#4B0082" },
+      "colorPalette": {
+        "primary": "#76F9D9",
+        "secondary": "#96E7F8",
+        "accent": "#BDD6F9"
+      },
       "animationStyle": "swirl",
       "duration": 9000
     },
@@ -252,7 +376,11 @@
       "id": 32,
       "name": "TRIANGULUM GALAXY (M33)",
       "type": "galaxy",
-      "colorPalette": { "primary": "#4169E1", "secondary": "#6A5ACD", "accent": "#7B68EE" },
+      "colorPalette": {
+        "primary": "#F976F3",
+        "secondary": "#F896CB",
+        "accent": "#F9BDC5"
+      },
       "animationStyle": "swirl",
       "duration": 8500
     },
@@ -260,7 +388,11 @@
       "id": 33,
       "name": "CENTAURUS A RADIO GALAXY",
       "type": "galaxy",
-      "colorPalette": { "primary": "#8B0000", "secondary": "#A52A2A", "accent": "#CD5C5C" },
+      "colorPalette": {
+        "primary": "#CDF976",
+        "secondary": "#AEF896",
+        "accent": "#BDF9C8"
+      },
       "animationStyle": "drift",
       "duration": 8000
     },
@@ -268,7 +400,11 @@
       "id": 34,
       "name": "CARTWHEEL GALAXY",
       "type": "galaxy",
-      "colorPalette": { "primary": "#87CEFA", "secondary": "#ADD8E6", "accent": "#B0E0E6" },
+      "colorPalette": {
+        "primary": "#76A7F9",
+        "secondary": "#9A96F8",
+        "accent": "#D9BDF9"
+      },
       "animationStyle": "swirl",
       "duration": 8800
     },
@@ -276,7 +412,11 @@
       "id": 35,
       "name": "IC 1101 GIANT ELLIPTICAL",
       "type": "galaxy",
-      "colorPalette": { "primary": "#FFD700", "secondary": "#FFA500", "accent": "#FFB347" },
+      "colorPalette": {
+        "primary": "#F97680",
+        "secondary": "#F8B796",
+        "accent": "#F9EBBD"
+      },
       "animationStyle": "pulse",
       "duration": 9200
     },
@@ -284,7 +424,11 @@
       "id": 36,
       "name": "CARINA NEBULA",
       "type": "nebula",
-      "colorPalette": { "primary": "#FF7F50", "secondary": "#FF6347", "accent": "#FF4500" },
+      "colorPalette": {
+        "primary": "#76F992",
+        "secondary": "#96F8D4",
+        "accent": "#BDF7F9"
+      },
       "animationStyle": "wave",
       "duration": 7800
     },
@@ -292,7 +436,11 @@
       "id": 37,
       "name": "TARANTULA NEBULA (30 DOR)",
       "type": "nebula",
-      "colorPalette": { "primary": "#20B2AA", "secondary": "#40E0D0", "accent": "#48D1CC" },
+      "colorPalette": {
+        "primary": "#B876F9",
+        "secondary": "#F196F8",
+        "accent": "#F9BDE5"
+      },
       "animationStyle": "wave",
       "duration": 8000
     },
@@ -300,7 +448,11 @@
       "id": 38,
       "name": "LAGOON NEBULA (M8)",
       "type": "nebula",
-      "colorPalette": { "primary": "#9370DB", "secondary": "#BA55D3", "accent": "#E6E6FA" },
+      "colorPalette": {
+        "primary": "#F9DF76",
+        "secondary": "#E3F896",
+        "accent": "#D4F9BD"
+      },
       "animationStyle": "drift",
       "duration": 7600
     },
@@ -308,7 +460,11 @@
       "id": 39,
       "name": "TRIFID NEBULA (M20)",
       "type": "nebula",
-      "colorPalette": { "primary": "#DC143C", "secondary": "#FF69B4", "accent": "#FFB6C1" },
+      "colorPalette": {
+        "primary": "#76EEF9",
+        "secondary": "#96C6F8",
+        "accent": "#BDC2F9"
+      },
       "animationStyle": "wave",
       "duration": 7700
     },
@@ -316,7 +472,11 @@
       "id": 40,
       "name": "ROSETTE NEBULA",
       "type": "nebula",
-      "colorPalette": { "primary": "#FF1493", "secondary": "#FF69B4", "accent": "#FFB6C1" },
+      "colorPalette": {
+        "primary": "#F976C7",
+        "secondary": "#F896AA",
+        "accent": "#F9CABD"
+      },
       "animationStyle": "pulse",
       "duration": 7800
     },
@@ -324,7 +484,11 @@
       "id": 41,
       "name": "NORTH AMERICA NEBULA",
       "type": "nebula",
-      "colorPalette": { "primary": "#00BFFF", "secondary": "#1E90FF", "accent": "#87CEFA" },
+      "colorPalette": {
+        "primary": "#A1F976",
+        "secondary": "#96F89E",
+        "accent": "#BDF9DC"
+      },
       "animationStyle": "drift",
       "duration": 7500
     },
@@ -332,7 +496,11 @@
       "id": 42,
       "name": "CALIFORNIA NEBULA",
       "type": "nebula",
-      "colorPalette": { "primary": "#FFA07A", "secondary": "#FA8072", "accent": "#E9967A" },
+      "colorPalette": {
+        "primary": "#767BF9",
+        "secondary": "#BB96F8",
+        "accent": "#EDBDF9"
+      },
       "animationStyle": "wave",
       "duration": 7600
     },
@@ -340,7 +508,11 @@
       "id": 43,
       "name": "BUBBLE NEBULA (NGC 7635)",
       "type": "nebula",
-      "colorPalette": { "primary": "#00CED1", "secondary": "#40E0D0", "accent": "#7FFFD4" },
+      "colorPalette": {
+        "primary": "#F99776",
+        "secondary": "#F8D896",
+        "accent": "#F4F9BD"
+      },
       "animationStyle": "pulse",
       "duration": 8000
     },
@@ -348,7 +520,11 @@
       "id": 44,
       "name": "CONE NEBULA",
       "type": "nebula",
-      "colorPalette": { "primary": "#708090", "secondary": "#778899", "accent": "#A9A9A9" },
+      "colorPalette": {
+        "primary": "#76F9BE",
+        "secondary": "#96F8F5",
+        "accent": "#BDE2F9"
+      },
       "animationStyle": "drift",
       "duration": 7400
     },
@@ -356,7 +532,11 @@
       "id": 45,
       "name": "CAT'S EYE NEBULA (NGC 6543)",
       "type": "nebula",
-      "colorPalette": { "primary": "#00FA9A", "secondary": "#3CB371", "accent": "#2E8B57" },
+      "colorPalette": {
+        "primary": "#E476F9",
+        "secondary": "#F896DF",
+        "accent": "#F9BDD1"
+      },
       "animationStyle": "wave",
       "duration": 7900
     },
@@ -364,7 +544,11 @@
       "id": 46,
       "name": "POLARIS (NORTH STAR)",
       "type": "star",
-      "colorPalette": { "primary": "#F0F8FF", "secondary": "#E0FFFF", "accent": "#B0E0E6" },
+      "colorPalette": {
+        "primary": "#E8F976",
+        "secondary": "#C2F896",
+        "accent": "#BFF9BD"
+      },
       "animationStyle": "twinkle",
       "duration": 5200
     },
@@ -372,7 +556,11 @@
       "id": 47,
       "name": "VEGA (ALPHA LYRAE)",
       "type": "star",
-      "colorPalette": { "primary": "#ADD8E6", "secondary": "#87CEEB", "accent": "#B0C4DE" },
+      "colorPalette": {
+        "primary": "#76C2F9",
+        "secondary": "#96A5F8",
+        "accent": "#CDBDF9"
+      },
       "animationStyle": "twinkle",
       "duration": 5200
     },
@@ -380,7 +568,11 @@
       "id": 48,
       "name": "ARCTURUS (ALPHA BOÖTIS)",
       "type": "star",
-      "colorPalette": { "primary": "#FF8C00", "secondary": "#FFA500", "accent": "#FFD700" },
+      "colorPalette": {
+        "primary": "#F9769B",
+        "secondary": "#F8A296",
+        "accent": "#F9DEBD"
+      },
       "animationStyle": "pulse",
       "duration": 5400
     },
@@ -388,7 +580,11 @@
       "id": 49,
       "name": "ALDEBARAN (ALPHA TAURI)",
       "type": "star",
-      "colorPalette": { "primary": "#CD853F", "secondary": "#D2691E", "accent": "#F4A460" },
+      "colorPalette": {
+        "primary": "#76F977",
+        "secondary": "#96F8BF",
+        "accent": "#BDF9F0"
+      },
       "animationStyle": "pulse",
       "duration": 5400
     },
@@ -396,7 +592,11 @@
       "id": 50,
       "name": "ANTARES RED SUPERGIANT",
       "type": "star",
-      "colorPalette": { "primary": "#B22222", "secondary": "#DC143C", "accent": "#FF4500" },
+      "colorPalette": {
+        "primary": "#9D76F9",
+        "secondary": "#DC96F8",
+        "accent": "#F9BDF1"
+      },
       "animationStyle": "pulse",
       "duration": 5600
     },
@@ -404,7 +604,11 @@
       "id": 51,
       "name": "DENEB (ALPHA CYGNI)",
       "type": "star",
-      "colorPalette": { "primary": "#E6E6FA", "secondary": "#B0C4DE", "accent": "#D8BFD8" },
+      "colorPalette": {
+        "primary": "#F9C376",
+        "secondary": "#F8F896",
+        "accent": "#E0F9BD"
+      },
       "animationStyle": "twinkle",
       "duration": 5200
     },
@@ -412,7 +616,11 @@
       "id": 52,
       "name": "SPICA (ALPHA VIRGINIS)",
       "type": "star",
-      "colorPalette": { "primary": "#7B68EE", "secondary": "#6A5ACD", "accent": "#8470FF" },
+      "colorPalette": {
+        "primary": "#76F9EA",
+        "secondary": "#96DBF8",
+        "accent": "#BDCEF9"
+      },
       "animationStyle": "twinkle",
       "duration": 5200
     },
@@ -420,7 +628,11 @@
       "id": 53,
       "name": "REGULUS (ALPHA LEONIS)",
       "type": "star",
-      "colorPalette": { "primary": "#6495ED", "secondary": "#87CEFA", "accent": "#4682B4" },
+      "colorPalette": {
+        "primary": "#F976E2",
+        "secondary": "#F896BE",
+        "accent": "#F9BEBD"
+      },
       "animationStyle": "pulse",
       "duration": 5400
     },
@@ -428,7 +640,11 @@
       "id": 54,
       "name": "ALTAIR (ALPHA AQUILAE)",
       "type": "star",
-      "colorPalette": { "primary": "#F0FFFF", "secondary": "#E0FFFF", "accent": "#B0E0E6" },
+      "colorPalette": {
+        "primary": "#BCF976",
+        "secondary": "#A1F896",
+        "accent": "#BDF9CF"
+      },
       "animationStyle": "twinkle",
       "duration": 5200
     },
@@ -436,7 +652,11 @@
       "id": 55,
       "name": "MIMOSA (BETA CRUCIS)",
       "type": "star",
-      "colorPalette": { "primary": "#E6E6FA", "secondary": "#D8BFD8", "accent": "#9370DB" },
+      "colorPalette": {
+        "primary": "#7696F9",
+        "secondary": "#A796F8",
+        "accent": "#E1BDF9"
+      },
       "animationStyle": "twinkle",
       "duration": 5200
     },
@@ -444,7 +664,11 @@
       "id": 56,
       "name": "PROCYON (ALPHA CANIS MINORIS)",
       "type": "star",
-      "colorPalette": { "primary": "#FFFACD", "secondary": "#FAFAD2", "accent": "#F0E68C" },
+      "colorPalette": {
+        "primary": "#F97C76",
+        "secondary": "#F8C496",
+        "accent": "#F9F2BD"
+      },
       "animationStyle": "pulse",
       "duration": 5400
     },
@@ -452,7 +676,11 @@
       "id": 57,
       "name": "LEONID METEOR SHOWER",
       "type": "meteoroid",
-      "colorPalette": { "primary": "#C0C0C0", "secondary": "#D3D3D3", "accent": "#A9A9A9" },
+      "colorPalette": {
+        "primary": "#76F9A3",
+        "secondary": "#96F8E0",
+        "accent": "#BDEFF9"
+      },
       "animationStyle": "drift",
       "duration": 5000
     },
@@ -460,7 +688,11 @@
       "id": 58,
       "name": "GEMINID METEOR SHOWER",
       "type": "meteoroid",
-      "colorPalette": { "primary": "#87CEFA", "secondary": "#AFEEEE", "accent": "#ADD8E6" },
+      "colorPalette": {
+        "primary": "#C976F9",
+        "secondary": "#F896F3",
+        "accent": "#F9BDDD"
+      },
       "animationStyle": "drift",
       "duration": 5000
     },
@@ -468,7 +700,11 @@
       "id": 59,
       "name": "PLUTO DWARF PLANET",
       "type": "dwarfplanet",
-      "colorPalette": { "primary": "#D3D3D3", "secondary": "#B0C4DE", "accent": "#708090" },
+      "colorPalette": {
+        "primary": "#F9EF76",
+        "secondary": "#D7F896",
+        "accent": "#CCF9BD"
+      },
       "animationStyle": "orbit",
       "duration": 6000
     },
@@ -476,7 +712,11 @@
       "id": 60,
       "name": "ERIS DWARF PLANET",
       "type": "dwarfplanet",
-      "colorPalette": { "primary": "#DCDCDC", "secondary": "#C0C0C0", "accent": "#A9A9A9" },
+      "colorPalette": {
+        "primary": "#76DDF9",
+        "secondary": "#96BAF8",
+        "accent": "#C0BDF9"
+      },
       "animationStyle": "orbit",
       "duration": 6100
     },
@@ -484,7 +724,11 @@
       "id": 61,
       "name": "HAUMEA OBLONG DWARF PLANET",
       "type": "dwarfplanet",
-      "colorPalette": { "primary": "#F5F5F5", "secondary": "#D3D3D3", "accent": "#C0C0C0" },
+      "colorPalette": {
+        "primary": "#F976B7",
+        "secondary": "#F8969D",
+        "accent": "#F9D2BD"
+      },
       "animationStyle": "orbit",
       "duration": 6100
     },
@@ -492,7 +736,11 @@
       "id": 62,
       "name": "MAKEMAKE DWARF PLANET",
       "type": "dwarfplanet",
-      "colorPalette": { "primary": "#DEB887", "secondary": "#D2B48C", "accent": "#BC8F8F" },
+      "colorPalette": {
+        "primary": "#90F976",
+        "secondary": "#96F8AB",
+        "accent": "#BDF9E3"
+      },
       "animationStyle": "orbit",
       "duration": 6100
     },
@@ -500,7 +748,11 @@
       "id": 63,
       "name": "CERES (ASTEROID-DWARF PLANET)",
       "type": "dwarfplanet",
-      "colorPalette": { "primary": "#C0C0C0", "secondary": "#A9A9A9", "accent": "#808080" },
+      "colorPalette": {
+        "primary": "#8276F9",
+        "secondary": "#C896F8",
+        "accent": "#F5BDF9"
+      },
       "animationStyle": "orbit",
       "duration": 6000
     },
@@ -508,7 +760,11 @@
       "id": 64,
       "name": "EUROPA (JOVIAN MOON)",
       "type": "moon",
-      "colorPalette": { "primary": "#F5DEB3", "secondary": "#FFE4B5", "accent": "#D2B48C" },
+      "colorPalette": {
+        "primary": "#F9A876",
+        "secondary": "#F8E596",
+        "accent": "#ECF9BD"
+      },
       "animationStyle": "orbit",
       "duration": 5800
     },
@@ -516,7 +772,11 @@
       "id": 65,
       "name": "TITAN (SATURNIAN MOON)",
       "type": "moon",
-      "colorPalette": { "primary": "#B8860B", "secondary": "#DAA520", "accent": "#F0E68C" },
+      "colorPalette": {
+        "primary": "#76F9CF",
+        "secondary": "#96EFF8",
+        "accent": "#BDDBF9"
+      },
       "animationStyle": "orbit",
       "duration": 5800
     },
@@ -524,7 +784,11 @@
       "id": 66,
       "name": "ENCELADUS ICE MOON",
       "type": "moon",
-      "colorPalette": { "primary": "#E6E6FA", "secondary": "#F8F8FF", "accent": "#B0C4DE" },
+      "colorPalette": {
+        "primary": "#F576F9",
+        "secondary": "#F896D2",
+        "accent": "#F9BDC9"
+      },
       "animationStyle": "orbit",
       "duration": 5800
     },
@@ -532,7 +796,11 @@
       "id": 67,
       "name": "IO VOLCANIC MOON",
       "type": "moon",
-      "colorPalette": { "primary": "#FFD700", "secondary": "#FFA500", "accent": "#FF8C00" },
+      "colorPalette": {
+        "primary": "#D7F976",
+        "secondary": "#B6F896",
+        "accent": "#BDF9C3"
+      },
       "animationStyle": "orbit",
       "duration": 5800
     },
@@ -540,7 +808,11 @@
       "id": 68,
       "name": "GANYMEDE GALILEAN MOON",
       "type": "moon",
-      "colorPalette": { "primary": "#708090", "secondary": "#778899", "accent": "#A9A9A9" },
+      "colorPalette": {
+        "primary": "#76B1F9",
+        "secondary": "#9699F8",
+        "accent": "#D4BDF9"
+      },
       "animationStyle": "orbit",
       "duration": 5800
     },
@@ -548,7 +820,11 @@
       "id": 69,
       "name": "CALLISTO OUTER MOON",
       "type": "moon",
-      "colorPalette": { "primary": "#2F4F4F", "secondary": "#556B2F", "accent": "#6B8E23" },
+      "colorPalette": {
+        "primary": "#F9768B",
+        "secondary": "#F8AF96",
+        "accent": "#F9E6BD"
+      },
       "animationStyle": "orbit",
       "duration": 5800
     },
@@ -556,7 +832,11 @@
       "id": 70,
       "name": "TRITON (NEPTUNIAN MOON)",
       "type": "moon",
-      "colorPalette": { "primary": "#00CED1", "secondary": "#20B2AA", "accent": "#48D1CC" },
+      "colorPalette": {
+        "primary": "#76F988",
+        "secondary": "#96F8CC",
+        "accent": "#BDF9F7"
+      },
       "animationStyle": "orbit",
       "duration": 5800
     },
@@ -564,7 +844,11 @@
       "id": 71,
       "name": "CHARON (PLUTO'S MOON)",
       "type": "moon",
-      "colorPalette": { "primary": "#778899", "secondary": "#708090", "accent": "#B0C4DE" },
+      "colorPalette": {
+        "primary": "#AE76F9",
+        "secondary": "#E996F8",
+        "accent": "#F9BDEA"
+      },
       "animationStyle": "orbit",
       "duration": 5800
     },
@@ -572,7 +856,11 @@
       "id": 72,
       "name": "KUIPER BELT OBJECT",
       "type": "belt",
-      "colorPalette": { "primary": "#C0C0C0", "secondary": "#DCDCDC", "accent": "#B0C4DE" },
+      "colorPalette": {
+        "primary": "#F9D476",
+        "secondary": "#EBF896",
+        "accent": "#D8F9BD"
+      },
       "animationStyle": "drift",
       "duration": 7000
     },
@@ -580,7 +868,11 @@
       "id": 73,
       "name": "OORT CLOUD COMETARY SHELL",
       "type": "cloud",
-      "colorPalette": { "primary": "#E0FFFF", "secondary": "#F0FFFF", "accent": "#AFEEEE" },
+      "colorPalette": {
+        "primary": "#76F8F9",
+        "secondary": "#96CEF8",
+        "accent": "#BDC7F9"
+      },
       "animationStyle": "drift",
       "duration": 9000
     },
@@ -588,7 +880,11 @@
       "id": 74,
       "name": "HELIOPAUSE BOUNDARY",
       "type": "boundary",
-      "colorPalette": { "primary": "#1E90FF", "secondary": "#00BFFF", "accent": "#87CEFA" },
+      "colorPalette": {
+        "primary": "#F976D2",
+        "secondary": "#F896B1",
+        "accent": "#F9C5BD"
+      },
       "animationStyle": "wave",
       "duration": 8800
     },
@@ -596,7 +892,11 @@
       "id": 75,
       "name": "SOLAR FLARE PROMINENCE",
       "type": "phenomena",
-      "colorPalette": { "primary": "#FF4500", "secondary": "#FF6347", "accent": "#FF8C00" },
+      "colorPalette": {
+        "primary": "#ABF976",
+        "secondary": "#96F897",
+        "accent": "#BDF9D7"
+      },
       "animationStyle": "flare",
       "duration": 4500
     },
@@ -604,7 +904,11 @@
       "id": 76,
       "name": "CORONAL MASS EJECTION",
       "type": "phenomena",
-      "colorPalette": { "primary": "#FFD700", "secondary": "#FFA500", "accent": "#FF4500" },
+      "colorPalette": {
+        "primary": "#7685F9",
+        "secondary": "#B396F8",
+        "accent": "#E8BDF9"
+      },
       "animationStyle": "flare",
       "duration": 4600
     },
@@ -612,7 +916,11 @@
       "id": 77,
       "name": "AURORA BOREALIS",
       "type": "phenomena",
-      "colorPalette": { "primary": "#00FF7F", "secondary": "#7CFC00", "accent": "#ADFF2F" },
+      "colorPalette": {
+        "primary": "#F98D76",
+        "secondary": "#F8D096",
+        "accent": "#F9F9BD"
+      },
       "animationStyle": "ripple",
       "duration": 5500
     },
@@ -620,7 +928,11 @@
       "id": 78,
       "name": "AURORA AUSTRALIS",
       "type": "phenomena",
-      "colorPalette": { "primary": "#32CD32", "secondary": "#00FA9A", "accent": "#66CDAA" },
+      "colorPalette": {
+        "primary": "#76F9B3",
+        "secondary": "#96F8ED",
+        "accent": "#BDE7F9"
+      },
       "animationStyle": "ripple",
       "duration": 5500
     },
@@ -628,7 +940,11 @@
       "id": 79,
       "name": "GAMMA-RAY BURST GRB 190114C",
       "type": "burst",
-      "colorPalette": { "primary": "#9400D3", "secondary": "#8A2BE2", "accent": "#9932CC" },
+      "colorPalette": {
+        "primary": "#DA76F9",
+        "secondary": "#F896E7",
+        "accent": "#F9BDD6"
+      },
       "animationStyle": "flare",
       "duration": 4800
     },
@@ -636,7 +952,11 @@
       "id": 80,
       "name": "MAGNETAR SGR 1806-20",
       "type": "magnetar",
-      "colorPalette": { "primary": "#00008B", "secondary": "#191970", "accent": "#483D8B" },
+      "colorPalette": {
+        "primary": "#F2F976",
+        "secondary": "#CAF896",
+        "accent": "#C4F9BD"
+      },
       "animationStyle": "pulse",
       "duration": 6000
     },
@@ -644,7 +964,11 @@
       "id": 81,
       "name": "FAST RADIO BURST FRB 121102",
       "type": "frb",
-      "colorPalette": { "primary": "#7B68EE", "secondary": "#9370DB", "accent": "#8A2BE2" },
+      "colorPalette": {
+        "primary": "#76CCF9",
+        "secondary": "#96ADF8",
+        "accent": "#C8BDF9"
+      },
       "animationStyle": "pulse",
       "duration": 6000
     },
@@ -652,7 +976,11 @@
       "id": 82,
       "name": "GRAVITATIONAL WAVE GW170817",
       "type": "wave",
-      "colorPalette": { "primary": "#00CED1", "secondary": "#40E0D0", "accent": "#48D1CC" },
+      "colorPalette": {
+        "primary": "#F976A6",
+        "secondary": "#F89B96",
+        "accent": "#F9D9BD"
+      },
       "animationStyle": "wave",
       "duration": 7000
     },
@@ -660,7 +988,11 @@
       "id": 83,
       "name": "COSMIC MICROWAVE BACKGROUND",
       "type": "background",
-      "colorPalette": { "primary": "#191970", "secondary": "#000080", "accent": "#00008B" },
+      "colorPalette": {
+        "primary": "#7FF976",
+        "secondary": "#96F8B8",
+        "accent": "#BDF9EB"
+      },
       "animationStyle": "drift",
       "duration": 9000
     },
@@ -668,7 +1000,11 @@
       "id": 84,
       "name": "COSMIC WEB FILAMENT",
       "type": "structure",
-      "colorPalette": { "primary": "#4B0082", "secondary": "#800080", "accent": "#9932CC" },
+      "colorPalette": {
+        "primary": "#9376F9",
+        "secondary": "#D496F8",
+        "accent": "#F9BDF6"
+      },
       "animationStyle": "swirl",
       "duration": 8500
     },
@@ -676,7 +1012,11 @@
       "id": 85,
       "name": "TRAPPIST-1E EXOPLANET",
       "type": "exoplanet",
-      "colorPalette": { "primary": "#8FBC8F", "secondary": "#98FB98", "accent": "#2E8B57" },
+      "colorPalette": {
+        "primary": "#F9B976",
+        "secondary": "#F8F196",
+        "accent": "#E5F9BD"
+      },
       "animationStyle": "drift",
       "duration": 5200
     },
@@ -684,7 +1024,11 @@
       "id": 86,
       "name": "WASP-12B HOT JUPITER",
       "type": "exoplanet",
-      "colorPalette": { "primary": "#FF4500", "secondary": "#FF6347", "accent": "#FF8C00" },
+      "colorPalette": {
+        "primary": "#76F9DF",
+        "secondary": "#96E3F8",
+        "accent": "#BDD3F9"
+      },
       "animationStyle": "drift",
       "duration": 5200
     },
@@ -692,7 +1036,11 @@
       "id": 87,
       "name": "HD 189733B AZURE GIANT",
       "type": "exoplanet",
-      "colorPalette": { "primary": "#1E90FF", "secondary": "#00BFFF", "accent": "#4682B4" },
+      "colorPalette": {
+        "primary": "#F976ED",
+        "secondary": "#F896C6",
+        "accent": "#F9BDC2"
+      },
       "animationStyle": "drift",
       "duration": 5200
     },
@@ -700,7 +1048,11 @@
       "id": 88,
       "name": "KEPLER-22B SUPER-EARTH",
       "type": "exoplanet",
-      "colorPalette": { "primary": "#2E8B57", "secondary": "#3CB371", "accent": "#66CDAA" },
+      "colorPalette": {
+        "primary": "#C6F976",
+        "secondary": "#A9F896",
+        "accent": "#BDF9CB"
+      },
       "animationStyle": "drift",
       "duration": 5200
     },
@@ -708,7 +1060,11 @@
       "id": 89,
       "name": "55 CANCRI E CARBON PLANET",
       "type": "exoplanet",
-      "colorPalette": { "primary": "#708090", "secondary": "#A9A9A9", "accent": "#2F4F4F" },
+      "colorPalette": {
+        "primary": "#76A0F9",
+        "secondary": "#9F96F8",
+        "accent": "#DCBDF9"
+      },
       "animationStyle": "drift",
       "duration": 5200
     },
@@ -716,7 +1072,11 @@
       "id": 90,
       "name": "HERCULES GLOBULAR CLUSTER (M13)",
       "type": "cluster",
-      "colorPalette": { "primary": "#FFF8DC", "secondary": "#F5F5DC", "accent": "#EEE8AA" },
+      "colorPalette": {
+        "primary": "#F9767A",
+        "secondary": "#F8BC96",
+        "accent": "#F9EEBD"
+      },
       "animationStyle": "twinkle",
       "duration": 6000
     },
@@ -724,7 +1084,11 @@
       "id": 91,
       "name": "DOUBLE CLUSTER (NGC 869/884)",
       "type": "cluster",
-      "colorPalette": { "primary": "#E0FFFF", "secondary": "#AFEEEE", "accent": "#B0E0E6" },
+      "colorPalette": {
+        "primary": "#76F998",
+        "secondary": "#96F8D9",
+        "accent": "#BDF4F9"
+      },
       "animationStyle": "twinkle",
       "duration": 6000
     },
@@ -732,7 +1096,11 @@
       "id": 92,
       "name": "IC 443 JELLYFISH SUPERNOVA",
       "type": "supernova",
-      "colorPalette": { "primary": "#DC143C", "secondary": "#B22222", "accent": "#FF4500" },
+      "colorPalette": {
+        "primary": "#BF76F9",
+        "secondary": "#F596F8",
+        "accent": "#F9BDE2"
+      },
       "animationStyle": "wave",
       "duration": 7200
     },
@@ -740,7 +1108,11 @@
       "id": 93,
       "name": "TYPHOON GALAXY (NGC 1097)",
       "type": "galaxy",
-      "colorPalette": { "primary": "#FF00FF", "secondary": "#DA70D6", "accent": "#BA55D3" },
+      "colorPalette": {
+        "primary": "#F9E576",
+        "secondary": "#DEF896",
+        "accent": "#D1F9BD"
+      },
       "animationStyle": "swirl",
       "duration": 8800
     },
@@ -748,7 +1120,11 @@
       "id": 94,
       "name": "TADPOLE GALAXY (UGC 10214)",
       "type": "galaxy",
-      "colorPalette": { "primary": "#00CED1", "secondary": "#48D1CC", "accent": "#20B2AA" },
+      "colorPalette": {
+        "primary": "#76E7F9",
+        "secondary": "#96C2F8",
+        "accent": "#BDBFF9"
+      },
       "animationStyle": "swirl",
       "duration": 8600
     },
@@ -756,7 +1132,11 @@
       "id": 95,
       "name": "ANTENNAE GALAXIES (NGC 4038/4039)",
       "type": "galaxy",
-      "colorPalette": { "primary": "#FF7F50", "secondary": "#FFA07A", "accent": "#CD5C5C" },
+      "colorPalette": {
+        "primary": "#F976C1",
+        "secondary": "#F896A5",
+        "accent": "#F9CDBD"
+      },
       "animationStyle": "swirl",
       "duration": 8700
     },
@@ -764,7 +1144,11 @@
       "id": 96,
       "name": "BUTTERFLY GALAXY (NGC 4567/4568)",
       "type": "galaxy",
-      "colorPalette": { "primary": "#8A2BE2", "secondary": "#9370DB", "accent": "#BA55D3" },
+      "colorPalette": {
+        "primary": "#9BF976",
+        "secondary": "#96F8A3",
+        "accent": "#BDF9DF"
+      },
       "animationStyle": "swirl",
       "duration": 8700
     },
@@ -772,7 +1156,11 @@
       "id": 97,
       "name": "HOAG'S OBJECT RING GALAXY",
       "type": "galaxy",
-      "colorPalette": { "primary": "#FFD700", "secondary": "#FFB14E", "accent": "#FF8C00" },
+      "colorPalette": {
+        "primary": "#7876F9",
+        "secondary": "#C096F8",
+        "accent": "#F0BDF9"
+      },
       "animationStyle": "swirl",
       "duration": 8800
     },
@@ -780,7 +1168,11 @@
       "id": 98,
       "name": "UGC 2885 RUBIN'S GALAXY",
       "type": "galaxy",
-      "colorPalette": { "primary": "#B0C4DE", "secondary": "#708090", "accent": "#2F4F4F" },
+      "colorPalette": {
+        "primary": "#F99E76",
+        "secondary": "#F8DD96",
+        "accent": "#F1F9BD"
+      },
       "animationStyle": "drift",
       "duration": 8500
     },
@@ -788,7 +1180,11 @@
       "id": 99,
       "name": "NGC 1300 BARRED SPIRAL",
       "type": "galaxy",
-      "colorPalette": { "primary": "#00BFFF", "secondary": "#1E90FF", "accent": "#6495ED" },
+      "colorPalette": {
+        "primary": "#76F9C4",
+        "secondary": "#96F7F8",
+        "accent": "#BDE0F9"
+      },
       "animationStyle": "swirl",
       "duration": 8600
     },
@@ -796,7 +1192,11 @@
       "id": 100,
       "name": "GALACTIC CORE (CENTRAL BULGE)",
       "type": "core",
-      "colorPalette": { "primary": "#8B0000", "secondary": "#B22222", "accent": "#CD5C5C" },
+      "colorPalette": {
+        "primary": "#EB76F9",
+        "secondary": "#F896DA",
+        "accent": "#F9BDCE"
+      },
       "animationStyle": "pulse",
       "duration": 9000
     },
@@ -804,7 +1204,11 @@
       "id": 101,
       "name": "BARNARD'S STAR",
       "type": "star",
-      "colorPalette": { "primary": "#DC143C", "secondary": "#B22222", "accent": "#8B0000" },
+      "colorPalette": {
+        "primary": "#E2F976",
+        "secondary": "#BDF896",
+        "accent": "#BDF9BE"
+      },
       "animationStyle": "twinkle",
       "duration": 5300
     },
@@ -812,7 +1216,11 @@
       "id": 102,
       "name": "BETELGEUSE SUPERNOVA PROGENITOR",
       "type": "star",
-      "colorPalette": { "primary": "#FF4500", "secondary": "#FF6347", "accent": "#FF7F50" },
+      "colorPalette": {
+        "primary": "#76BBF9",
+        "secondary": "#96A1F8",
+        "accent": "#D0BDF9"
+      },
       "animationStyle": "pulse",
       "duration": 5500
     },
@@ -820,7 +1228,11 @@
       "id": 103,
       "name": "R136A1 MASSIVE STAR",
       "type": "star",
-      "colorPalette": { "primary": "#ADD8E6", "secondary": "#87CEFA", "accent": "#B0E0E6" },
+      "colorPalette": {
+        "primary": "#F97695",
+        "secondary": "#F8A796",
+        "accent": "#F9E1BD"
+      },
       "animationStyle": "pulse",
       "duration": 5500
     },
@@ -828,7 +1240,11 @@
       "id": 104,
       "name": "KEPLER SUPERNOVA (SN 1604)",
       "type": "supernova",
-      "colorPalette": { "primary": "#FFA500", "secondary": "#FF8C00", "accent": "#FF6347" },
+      "colorPalette": {
+        "primary": "#76F97D",
+        "secondary": "#96F8C4",
+        "accent": "#BDF9F3"
+      },
       "animationStyle": "wave",
       "duration": 7200
     },
@@ -836,7 +1252,11 @@
       "id": 105,
       "name": "TYCHO SUPERNOVA (SN 1572)",
       "type": "supernova",
-      "colorPalette": { "primary": "#7FFF00", "secondary": "#ADFF2F", "accent": "#556B2F" },
+      "colorPalette": {
+        "primary": "#A476F9",
+        "secondary": "#E196F8",
+        "accent": "#F9BDEE"
+      },
       "animationStyle": "wave",
       "duration": 7200
     },
@@ -844,7 +1264,11 @@
       "id": 106,
       "name": "LILLIPUTIAN ASTEROID 433 EROS",
       "type": "asteroid",
-      "colorPalette": { "primary": "#A9A9A9", "secondary": "#808080", "accent": "#696969" },
+      "colorPalette": {
+        "primary": "#F9CA76",
+        "secondary": "#F3F896",
+        "accent": "#DDF9BD"
+      },
       "animationStyle": "drift",
       "duration": 5000
     },
@@ -852,7 +1276,11 @@
       "id": 107,
       "name": "VESTA PROTOPLANET",
       "type": "asteroid",
-      "colorPalette": { "primary": "#CD853F", "secondary": "#D2B48C", "accent": "#F4A460" },
+      "colorPalette": {
+        "primary": "#76F9F0",
+        "secondary": "#96D6F8",
+        "accent": "#BDCBF9"
+      },
       "animationStyle": "drift",
       "duration": 5000
     },
@@ -860,7 +1288,11 @@
       "id": 108,
       "name": "APOPHIS NEAR-EARTH ASTEROID",
       "type": "asteroid",
-      "colorPalette": { "primary": "#696969", "secondary": "#808080", "accent": "#A9A9A9" },
+      "colorPalette": {
+        "primary": "#F976DC",
+        "secondary": "#F896B9",
+        "accent": "#F9C1BD"
+      },
       "animationStyle": "drift",
       "duration": 5000
     },
@@ -868,7 +1300,11 @@
       "id": 109,
       "name": "PIXARON COSMIC DUST CLOUD",
       "type": "cloud",
-      "colorPalette": { "primary": "#E6E6FA", "secondary": "#D8BFD8", "accent": "#F0E6FF" },
+      "colorPalette": {
+        "primary": "#B6F976",
+        "secondary": "#9CF896",
+        "accent": "#BDF9D2"
+      },
       "animationStyle": "drift",
       "duration": 8200
     },
@@ -876,7 +1312,11 @@
       "id": 110,
       "name": "ORIONID METEOR SHOWER",
       "type": "meteoroid",
-      "colorPalette": { "primary": "#B0C4DE", "secondary": "#C0D9D9", "accent": "#A9A9A9" },
+      "colorPalette": {
+        "primary": "#768FF9",
+        "secondary": "#AC96F8",
+        "accent": "#E4BDF9"
+      },
       "animationStyle": "drift",
       "duration": 5000
     },
@@ -884,7 +1324,11 @@
       "id": 111,
       "name": "DRACONID METEOR SHOWER",
       "type": "meteoroid",
-      "colorPalette": { "primary": "#4B0082", "secondary": "#800080", "accent": "#8A2BE2" },
+      "colorPalette": {
+        "primary": "#F98376",
+        "secondary": "#F8C896",
+        "accent": "#F9F5BD"
+      },
       "animationStyle": "drift",
       "duration": 5000
     },
@@ -892,7 +1336,11 @@
       "id": 112,
       "name": "HYADES STREAM STELLAR CURRENT",
       "type": "stream",
-      "colorPalette": { "primary": "#FFA07A", "secondary": "#FA8072", "accent": "#E9967A" },
+      "colorPalette": {
+        "primary": "#76F9A9",
+        "secondary": "#96F8E5",
+        "accent": "#BDECF9"
+      },
       "animationStyle": "flow",
       "duration": 7800
     },
@@ -900,7 +1348,11 @@
       "id": 113,
       "name": "ZODIACAL LIGHT",
       "type": "phenomena",
-      "colorPalette": { "primary": "#F5F5F5", "secondary": "#DCDCDC", "accent": "#B0C4DE" },
+      "colorPalette": {
+        "primary": "#CF76F9",
+        "secondary": "#F896EF",
+        "accent": "#F9BDDA"
+      },
       "animationStyle": "ripple",
       "duration": 6000
     },
@@ -908,7 +1360,11 @@
       "id": 114,
       "name": "HYPERION CHAOTIC MOON",
       "type": "moon",
-      "colorPalette": { "primary": "#DEB887", "secondary": "#D2B48C", "accent": "#BC8F8F" },
+      "colorPalette": {
+        "primary": "#F9F676",
+        "secondary": "#D2F896",
+        "accent": "#C9F9BD"
+      },
       "animationStyle": "orbit",
       "duration": 5800
     },
@@ -916,7 +1372,11 @@
       "id": 115,
       "name": "ROGUE PLANET PSO J318.5-22",
       "type": "rogueplanet",
-      "colorPalette": { "primary": "#191970", "secondary": "#000080", "accent": "#00008B" },
+      "colorPalette": {
+        "primary": "#76D6F9",
+        "secondary": "#96B5F8",
+        "accent": "#C3BDF9"
+      },
       "animationStyle": "drift",
       "duration": 6500
     },
@@ -924,7 +1384,11 @@
       "id": 116,
       "name": "GREAT ATTRACTOR MASS CONCENTRATION",
       "type": "structure",
-      "colorPalette": { "primary": "#4B5320", "secondary": "#556B2F", "accent": "#6B8E23" },
+      "colorPalette": {
+        "primary": "#F976B0",
+        "secondary": "#F89698",
+        "accent": "#F9D5BD"
+      },
       "animationStyle": "swirl",
       "duration": 9000
     },
@@ -932,7 +1396,11 @@
       "id": 117,
       "name": "SHAPLEY SUPERCLUSTER",
       "type": "supercluster",
-      "colorPalette": { "primary": "#8FBC8F", "secondary": "#9ACD32", "accent": "#6B8E23" },
+      "colorPalette": {
+        "primary": "#8AF976",
+        "secondary": "#96F8B0",
+        "accent": "#BDF9E6"
+      },
       "animationStyle": "swirl",
       "duration": 9000
     },
@@ -940,7 +1408,11 @@
       "id": 118,
       "name": "LOCAL VOID",
       "type": "void",
-      "colorPalette": { "primary": "#000000", "secondary": "#111111", "accent": "#222222" },
+      "colorPalette": {
+        "primary": "#8876F9",
+        "secondary": "#CD96F8",
+        "accent": "#F8BDF9"
+      },
       "animationStyle": "drift",
       "duration": 9300
     },
@@ -948,7 +1420,11 @@
       "id": 119,
       "name": "EL GORDO GALAXY CLUSTER",
       "type": "cluster",
-      "colorPalette": { "primary": "#FFD700", "secondary": "#FFA500", "accent": "#FF8C00" },
+      "colorPalette": {
+        "primary": "#F9AF76",
+        "secondary": "#F8E996",
+        "accent": "#E9F9BD"
+      },
       "animationStyle": "twinkle",
       "duration": 6200
     },
@@ -956,7 +1432,11 @@
       "id": 120,
       "name": "PHOENIX A* SUPERMASSIVE BLACK HOLE",
       "type": "blackhole",
-      "colorPalette": { "primary": "#000000", "secondary": "#4B0082", "accent": "#8A2BE2" },
+      "colorPalette": {
+        "primary": "#76F9D5",
+        "secondary": "#96EAF8",
+        "accent": "#BDD8F9"
+      },
       "animationStyle": "swirl",
       "duration": 9100
     },
@@ -964,7 +1444,11 @@
       "id": 121,
       "name": "COSMIC DAWN FIRST STARS",
       "type": "epoch",
-      "colorPalette": { "primary": "#FFEBCD", "secondary": "#FFF8DC", "accent": "#F5DEB3" },
+      "colorPalette": {
+        "primary": "#F976F7",
+        "secondary": "#F896CE",
+        "accent": "#F9BDC6"
+      },
       "animationStyle": "twinkle",
       "duration": 9500
     },
@@ -972,7 +1456,11 @@
       "id": 122,
       "name": "HYDRA-CENTAURUS SUPERCLUSTER",
       "type": "supercluster",
-      "colorPalette": { "primary": "#00CED1", "secondary": "#48D1CC", "accent": "#20B2AA" },
+      "colorPalette": {
+        "primary": "#D1F976",
+        "secondary": "#B1F896",
+        "accent": "#BDF9C6"
+      },
       "animationStyle": "swirl",
       "duration": 9000
     },
@@ -980,7 +1468,11 @@
       "id": 123,
       "name": "SLOAN GREAT WALL",
       "type": "structure",
-      "colorPalette": { "primary": "#4682B4", "secondary": "#5F9EA0", "accent": "#B0C4DE" },
+      "colorPalette": {
+        "primary": "#76ABF9",
+        "secondary": "#9796F8",
+        "accent": "#D7BDF9"
+      },
       "animationStyle": "swirl",
       "duration": 9000
     },
@@ -988,7 +1480,11 @@
       "id": 124,
       "name": "BOÖTES VOID",
       "type": "void",
-      "colorPalette": { "primary": "#000000", "secondary": "#0A0A0A", "accent": "#1C1C1C" },
+      "colorPalette": {
+        "primary": "#F97684",
+        "secondary": "#F8B496",
+        "accent": "#F9E9BD"
+      },
       "animationStyle": "drift",
       "duration": 9300
     },
@@ -996,7 +1492,11 @@
       "id": 125,
       "name": "WISE 0855-0714 BROWN DWARF",
       "type": "browndwarf",
-      "colorPalette": { "primary": "#8B4513", "secondary": "#A0522D", "accent": "#CD853F" },
+      "colorPalette": {
+        "primary": "#76F98E",
+        "secondary": "#96F8D1",
+        "accent": "#BDF8F9"
+      },
       "animationStyle": "pulse",
       "duration": 5800
     },
@@ -1004,7 +1504,11 @@
       "id": 126,
       "name": "OGLE-TR-56B ULTRA-HOT JUPITER",
       "type": "exoplanet",
-      "colorPalette": { "primary": "#FF4500", "secondary": "#FF7F50", "accent": "#FF6347" },
+      "colorPalette": {
+        "primary": "#B476F9",
+        "secondary": "#EE96F8",
+        "accent": "#F9BDE7"
+      },
       "animationStyle": "drift",
       "duration": 5200
     },
@@ -1012,7 +1516,11 @@
       "id": 127,
       "name": "INTERSTELLAR COMET 2I/BORISOV",
       "type": "comet",
-      "colorPalette": { "primary": "#87CEFA", "secondary": "#B0E0E6", "accent": "#F0F8FF" },
+      "colorPalette": {
+        "primary": "#F9DB76",
+        "secondary": "#E6F896",
+        "accent": "#D5F9BD"
+      },
       "animationStyle": "drift",
       "duration": 6300
     },
@@ -1020,7 +1528,11 @@
       "id": 128,
       "name": "A-MAGIC DARK-MATTER HALO",
       "type": "halo",
-      "colorPalette": { "primary": "#111111", "secondary": "#222222", "accent": "#333333" },
+      "colorPalette": {
+        "primary": "#76F2F9",
+        "secondary": "#96C9F8",
+        "accent": "#BDC4F9"
+      },
       "animationStyle": "swirl",
       "duration": 9400
     },
@@ -1028,7 +1540,11 @@
       "id": 129,
       "name": "GALILEAN ORBITAL RING",
       "type": "rings",
-      "colorPalette": { "primary": "#C0C0C0", "secondary": "#D2B48C", "accent": "#B8860B" },
+      "colorPalette": {
+        "primary": "#F976CB",
+        "secondary": "#F896AD",
+        "accent": "#F9C8BD"
+      },
       "animationStyle": "orbit",
       "duration": 6100
     },
@@ -1036,9 +1552,1213 @@
       "id": 130,
       "name": "COSMIC INFRARED BACKGROUND",
       "type": "background",
-      "colorPalette": { "primary": "#8B0000", "secondary": "#A52A2A", "accent": "#800000" },
+      "colorPalette": {
+        "primary": "#A5F976",
+        "secondary": "#96F89B",
+        "accent": "#BDF9DA"
+      },
       "animationStyle": "drift",
       "duration": 9000
+    },
+    {
+      "id": 131,
+      "name": "BINARY GARDEN",
+      "type": "phenomena",
+      "colorPalette": {
+        "primary": "#7E87FB",
+        "secondary": "#BB9EFA",
+        "accent": "#EBC6FB"
+      },
+      "animationStyle": "ionVector",
+      "duration": 8512
+    },
+    {
+      "id": 132,
+      "name": "HORIZON CITADEL",
+      "type": "browndwarf",
+      "colorPalette": {
+        "primary": "#FB9B7E",
+        "secondary": "#FAD69E",
+        "accent": "#FBFAC6"
+      },
+      "animationStyle": "nebulaShroud",
+      "duration": 7812
+    },
+    {
+      "id": 133,
+      "name": "CORONAL SONATA",
+      "type": "meteoroid",
+      "colorPalette": {
+        "primary": "#7EFBBF",
+        "secondary": "#9EFAF1",
+        "accent": "#C6ECFB"
+      },
+      "animationStyle": "binaryBeam",
+      "duration": 9198
+    },
+    {
+      "id": 134,
+      "name": "CHRONO CORE",
+      "type": "supernova",
+      "colorPalette": {
+        "primary": "#E37EFB",
+        "secondary": "#FA9EE8",
+        "accent": "#FBC6DC"
+      },
+      "animationStyle": "mosaicTorrent",
+      "duration": 8013
+    },
+    {
+      "id": 135,
+      "name": "ELECTRIC NEBULA",
+      "type": "moon",
+      "colorPalette": {
+        "primary": "#EEFB7E",
+        "secondary": "#CDFA9E",
+        "accent": "#CDFBC6"
+      },
+      "animationStyle": "chorusFlux",
+      "duration": 5455
+    },
+    {
+      "id": 136,
+      "name": "RIPPLING FISSURE",
+      "type": "magnetar",
+      "colorPalette": {
+        "primary": "#7ECAFB",
+        "secondary": "#9EB3FA",
+        "accent": "#CEC6FB"
+      },
+      "animationStyle": "radianceFlux",
+      "duration": 6401
+    },
+    {
+      "id": 137,
+      "name": "AZURE FRACTAL",
+      "type": "boundary",
+      "colorPalette": {
+        "primary": "#FB7EA6",
+        "secondary": "#FAA49E",
+        "accent": "#FBDEC6"
+      },
+      "animationStyle": "prismFlux",
+      "duration": 6362
+    },
+    {
+      "id": 138,
+      "name": "SINGULAR LUMEN",
+      "type": "blackhole",
+      "colorPalette": {
+        "primary": "#81FB7E",
+        "secondary": "#9EFABF",
+        "accent": "#C6FBED"
+      },
+      "animationStyle": "tesseractTracer",
+      "duration": 8550
+    },
+    {
+      "id": 139,
+      "name": "CRIMSON SEA",
+      "type": "rings",
+      "colorPalette": {
+        "primary": "#A07EFB",
+        "secondary": "#DA9EFA",
+        "accent": "#FBC6F9"
+      },
+      "animationStyle": "gildedGlow",
+      "duration": 6766
+    },
+    {
+      "id": 140,
+      "name": "ZENITH GLACIER",
+      "type": "structure",
+      "colorPalette": {
+        "primary": "#FBC47E",
+        "secondary": "#FAF59E",
+        "accent": "#EAFBC6"
+      },
+      "animationStyle": "coronaFlow",
+      "duration": 6727
+    },
+    {
+      "id": 141,
+      "name": "SYZYGY LENTICULAR",
+      "type": "core",
+      "colorPalette": {
+        "primary": "#7EFBE9",
+        "secondary": "#9EE4FA",
+        "accent": "#C6DAFB"
+      },
+      "animationStyle": "quantVector",
+      "duration": 8440
+    },
+    {
+      "id": 142,
+      "name": "NEBULIC SIGIL",
+      "type": "dwarfplanet",
+      "colorPalette": {
+        "primary": "#FB7EE9",
+        "secondary": "#FA9ECA",
+        "accent": "#FBC6CB"
+      },
+      "animationStyle": "keplerShiver",
+      "duration": 6446
+    },
+    {
+      "id": 143,
+      "name": "ZENITH HARBOR",
+      "type": "nebula",
+      "colorPalette": {
+        "primary": "#C5FB7E",
+        "secondary": "#AFFA9E",
+        "accent": "#C6FBD1"
+      },
+      "animationStyle": "novaeFlux",
+      "duration": 5909
+    },
+    {
+      "id": 144,
+      "name": "CELESTE PLUME",
+      "type": "sun",
+      "colorPalette": {
+        "primary": "#7EA0FB",
+        "secondary": "#A89EFA",
+        "accent": "#E0C6FB"
+      },
+      "animationStyle": "solisFlow",
+      "duration": 4871
+    },
+    {
+      "id": 145,
+      "name": "PARALLAX SPECTRUM",
+      "type": "rogueplanet",
+      "colorPalette": {
+        "primary": "#FB817E",
+        "secondary": "#FAC39E",
+        "accent": "#FBEFC6"
+      },
+      "animationStyle": "magnaPulse",
+      "duration": 6019
+    },
+    {
+      "id": 146,
+      "name": "INCANDESCENT ARC",
+      "type": "halo",
+      "colorPalette": {
+        "primary": "#7EFBA5",
+        "secondary": "#9EFADE",
+        "accent": "#C6F7FB"
+      },
+      "animationStyle": "stellarRay",
+      "duration": 7633
+    },
+    {
+      "id": 147,
+      "name": "ASTRAL HALATION",
+      "type": "frb",
+      "colorPalette": {
+        "primary": "#CA7EFB",
+        "secondary": "#F99EFA",
+        "accent": "#FBC6E7"
+      },
+      "animationStyle": "zenoPulse",
+      "duration": 6359
+    },
+    {
+      "id": 148,
+      "name": "HORIZON BLOSSOM",
+      "type": "cluster",
+      "colorPalette": {
+        "primary": "#FBEE7E",
+        "secondary": "#E0FA9E",
+        "accent": "#D8FBC6"
+      },
+      "animationStyle": "prismDance",
+      "duration": 5724
+    },
+    {
+      "id": 149,
+      "name": "ORBITAL TIDE",
+      "type": "asteroid",
+      "colorPalette": {
+        "primary": "#7EE4FB",
+        "secondary": "#9EC6FA",
+        "accent": "#C6C9FB"
+      },
+      "animationStyle": "ripplePulse",
+      "duration": 5460
+    },
+    {
+      "id": 150,
+      "name": "INFINITE SPHERE",
+      "type": "wave",
+      "colorPalette": {
+        "primary": "#FB7EBF",
+        "secondary": "#FA9EAB",
+        "accent": "#FBD3C6"
+      },
+      "animationStyle": "arcBreathe",
+      "duration": 9366
+    },
+    {
+      "id": 151,
+      "name": "PERIHELION CASCADE",
+      "type": "void",
+      "colorPalette": {
+        "primary": "#9BFB7E",
+        "secondary": "#9EFAAC",
+        "accent": "#C6FBE2"
+      },
+      "animationStyle": "binaryGlow",
+      "duration": 8012
+    },
+    {
+      "id": 152,
+      "name": "LUNAR PYRE",
+      "type": "comet",
+      "colorPalette": {
+        "primary": "#867EFB",
+        "secondary": "#C79EFA",
+        "accent": "#F2C6FB"
+      },
+      "animationStyle": "polarisWisp",
+      "duration": 6417
+    },
+    {
+      "id": 153,
+      "name": "CHRONO SPHERE",
+      "type": "exoplanet",
+      "colorPalette": {
+        "primary": "#FBAA7E",
+        "secondary": "#FAE29E",
+        "accent": "#F4FBC6"
+      },
+      "animationStyle": "copperCurrent",
+      "duration": 6131
+    },
+    {
+      "id": 154,
+      "name": "SPECTRUM FISSURE",
+      "type": "cloud",
+      "colorPalette": {
+        "primary": "#7EFBCF",
+        "secondary": "#9EF7FA",
+        "accent": "#C6E5FB"
+      },
+      "animationStyle": "stellarSong",
+      "duration": 7774
+    },
+    {
+      "id": 155,
+      "name": "ORBITING FRACTURE",
+      "type": "burst",
+      "colorPalette": {
+        "primary": "#F37EFB",
+        "secondary": "#FA9EDC",
+        "accent": "#FBC6D6"
+      },
+      "animationStyle": "radiantLattice",
+      "duration": 6200
+    },
+    {
+      "id": 156,
+      "name": "LYRIC PLUME",
+      "type": "belt",
+      "colorPalette": {
+        "primary": "#DEFB7E",
+        "secondary": "#C2FA9E",
+        "accent": "#C6FBC6"
+      },
+      "animationStyle": "zenicDance",
+      "duration": 5284
+    },
+    {
+      "id": 157,
+      "name": "SUPERNAL BLOSSOM",
+      "type": "star",
+      "colorPalette": {
+        "primary": "#7EBAFB",
+        "secondary": "#9EA7FA",
+        "accent": "#D5C6FB"
+      },
+      "animationStyle": "tesseractRidge",
+      "duration": 6300
+    },
+    {
+      "id": 158,
+      "name": "SOLSTICE PULSE",
+      "type": "pulsar",
+      "colorPalette": {
+        "primary": "#FB7E96",
+        "secondary": "#FAB09E",
+        "accent": "#FBE5C6"
+      },
+      "animationStyle": "crystalFlight",
+      "duration": 6739
+    },
+    {
+      "id": 159,
+      "name": "SPECTRAL LATTICE",
+      "type": "stream",
+      "colorPalette": {
+        "primary": "#7EFB8B",
+        "secondary": "#9EFACB",
+        "accent": "#C6FBF4"
+      },
+      "animationStyle": "cadenzaSweep",
+      "duration": 7068
+    },
+    {
+      "id": 160,
+      "name": "AERIAL HARBOR",
+      "type": "background",
+      "colorPalette": {
+        "primary": "#B07EFB",
+        "secondary": "#E69EFA",
+        "accent": "#FBC6F2"
+      },
+      "animationStyle": "pulseOrbit",
+      "duration": 6003
+    },
+    {
+      "id": 161,
+      "name": "PLENUM HARMONY",
+      "type": "supercluster",
+      "colorPalette": {
+        "primary": "#FBD47E",
+        "secondary": "#F3FA9E",
+        "accent": "#E3FBC6"
+      },
+      "animationStyle": "arcFlux",
+      "duration": 4860
+    },
+    {
+      "id": 162,
+      "name": "HALOED MONOLITH",
+      "type": "galaxy",
+      "colorPalette": {
+        "primary": "#7EFBF9",
+        "secondary": "#9ED9FA",
+        "accent": "#C6D3FB"
+      },
+      "animationStyle": "gossamerLattice",
+      "duration": 7074
+    },
+    {
+      "id": 163,
+      "name": "ORBITING CATHEDRAL",
+      "type": "quasar",
+      "colorPalette": {
+        "primary": "#FB7ED9",
+        "secondary": "#FA9EBE",
+        "accent": "#FBC8C6"
+      },
+      "animationStyle": "novaeSpin",
+      "duration": 9370
+    },
+    {
+      "id": 164,
+      "name": "SUPERNAL RESERVOIR",
+      "type": "phenomena",
+      "colorPalette": {
+        "primary": "#B5FB7E",
+        "secondary": "#A3FA9E",
+        "accent": "#C6FBD7"
+      },
+      "animationStyle": "celestialTremor",
+      "duration": 8730
+    },
+    {
+      "id": 165,
+      "name": "CATHEDRAL FRACTAL",
+      "type": "browndwarf",
+      "colorPalette": {
+        "primary": "#7E90FB",
+        "secondary": "#B49EFA",
+        "accent": "#E7C6FB"
+      },
+      "animationStyle": "dawnGlow",
+      "duration": 7233
+    },
+    {
+      "id": 166,
+      "name": "AERIAL VAULT",
+      "type": "meteoroid",
+      "colorPalette": {
+        "primary": "#FB917E",
+        "secondary": "#FACF9E",
+        "accent": "#FBF6C6"
+      },
+      "animationStyle": "bandVector",
+      "duration": 7597
+    },
+    {
+      "id": 167,
+      "name": "GALACTIC FOCUS",
+      "type": "supernova",
+      "colorPalette": {
+        "primary": "#7EFBB5",
+        "secondary": "#9EFAEA",
+        "accent": "#C6F0FB"
+      },
+      "animationStyle": "silicaBreeze",
+      "duration": 4856
+    },
+    {
+      "id": 168,
+      "name": "LYRICAL FOUNTAIN",
+      "type": "moon",
+      "colorPalette": {
+        "primary": "#D97EFB",
+        "secondary": "#FA9EEF",
+        "accent": "#FBC6E1"
+      },
+      "animationStyle": "stellarSpark",
+      "duration": 5683
+    },
+    {
+      "id": 169,
+      "name": "NOVA CONCERTO",
+      "type": "magnetar",
+      "colorPalette": {
+        "primary": "#F8FB7E",
+        "secondary": "#D5FA9E",
+        "accent": "#D1FBC6"
+      },
+      "animationStyle": "driftFlux",
+      "duration": 7785
+    },
+    {
+      "id": 170,
+      "name": "DAWN FIRING",
+      "type": "boundary",
+      "colorPalette": {
+        "primary": "#7ED4FB",
+        "secondary": "#9EBAFA",
+        "accent": "#CAC6FB"
+      },
+      "animationStyle": "solisSweep",
+      "duration": 9026
+    },
+    {
+      "id": 171,
+      "name": "RIPPLING PLUME",
+      "type": "blackhole",
+      "colorPalette": {
+        "primary": "#FB7EAF",
+        "secondary": "#FA9E9F",
+        "accent": "#FBDAC6"
+      },
+      "animationStyle": "stellarFall",
+      "duration": 6392
+    },
+    {
+      "id": 172,
+      "name": "SHIMMERING SPOOL",
+      "type": "rings",
+      "colorPalette": {
+        "primary": "#8BFB7E",
+        "secondary": "#9EFAB8",
+        "accent": "#C6FBE9"
+      },
+      "animationStyle": "polarRidge",
+      "duration": 9137
+    },
+    {
+      "id": 173,
+      "name": "MYSTIC NIMBUS",
+      "type": "structure",
+      "colorPalette": {
+        "primary": "#967EFB",
+        "secondary": "#D39EFA",
+        "accent": "#F8C6FB"
+      },
+      "animationStyle": "auricRipple",
+      "duration": 5048
+    },
+    {
+      "id": 174,
+      "name": "RAYSYNC PRISM",
+      "type": "core",
+      "colorPalette": {
+        "primary": "#FBBA7E",
+        "secondary": "#FAED9E",
+        "accent": "#EEFBC6"
+      },
+      "animationStyle": "dawnCascade",
+      "duration": 6892
+    },
+    {
+      "id": 175,
+      "name": "GLITTERING BASIN",
+      "type": "dwarfplanet",
+      "colorPalette": {
+        "primary": "#7EFBDF",
+        "secondary": "#9EECFA",
+        "accent": "#C6DEFB"
+      },
+      "animationStyle": "prismGlow",
+      "duration": 6575
+    },
+    {
+      "id": 176,
+      "name": "CHRONO PANORAMA",
+      "type": "nebula",
+      "colorPalette": {
+        "primary": "#FB7EF3",
+        "secondary": "#FA9ED1",
+        "accent": "#FBC6CF"
+      },
+      "animationStyle": "zenGlow",
+      "duration": 8832
+    },
+    {
+      "id": 177,
+      "name": "FOCAL MATRIX",
+      "type": "sun",
+      "colorPalette": {
+        "primary": "#CFFB7E",
+        "secondary": "#B6FA9E",
+        "accent": "#C6FBCD"
+      },
+      "animationStyle": "bandStrand",
+      "duration": 8546
+    },
+    {
+      "id": 178,
+      "name": "PULSAR VAULT",
+      "type": "rogueplanet",
+      "colorPalette": {
+        "primary": "#7EAAFB",
+        "secondary": "#A19EFA",
+        "accent": "#DCC6FB"
+      },
+      "animationStyle": "quantaGlow",
+      "duration": 8258
+    },
+    {
+      "id": 179,
+      "name": "GLITTERING LATTICE",
+      "type": "halo",
+      "colorPalette": {
+        "primary": "#FB7E86",
+        "secondary": "#FABC9E",
+        "accent": "#FBEBC6"
+      },
+      "animationStyle": "latticeEcho",
+      "duration": 8069
+    },
+    {
+      "id": 180,
+      "name": "IONIC QUASAR",
+      "type": "frb",
+      "colorPalette": {
+        "primary": "#7EFB9B",
+        "secondary": "#9EFAD7",
+        "accent": "#C6FBFB"
+      },
+      "animationStyle": "auraFlurry",
+      "duration": 6686
+    },
+    {
+      "id": 181,
+      "name": "NEON REFUGE",
+      "type": "cluster",
+      "colorPalette": {
+        "primary": "#C07EFB",
+        "secondary": "#F19EFA",
+        "accent": "#FBC6EB"
+      },
+      "animationStyle": "auroralDance",
+      "duration": 7617
+    },
+    {
+      "id": 182,
+      "name": "IRIDESCENT PLUME",
+      "type": "asteroid",
+      "colorPalette": {
+        "primary": "#FBE47E",
+        "secondary": "#E8FA9E",
+        "accent": "#DCFBC6"
+      },
+      "animationStyle": "frostVector",
+      "duration": 8202
+    },
+    {
+      "id": 183,
+      "name": "PRISTINE FOCUS",
+      "type": "wave",
+      "colorPalette": {
+        "primary": "#7EEEFB",
+        "secondary": "#9ECDFA",
+        "accent": "#C6CDFB"
+      },
+      "animationStyle": "polarCircuit",
+      "duration": 7974
+    },
+    {
+      "id": 184,
+      "name": "PHOTON ZENITH",
+      "type": "void",
+      "colorPalette": {
+        "primary": "#FB7EC9",
+        "secondary": "#FA9EB2",
+        "accent": "#FBCFC6"
+      },
+      "animationStyle": "sparkFlow",
+      "duration": 6632
+    },
+    {
+      "id": 185,
+      "name": "STREAKING TIDE",
+      "type": "comet",
+      "colorPalette": {
+        "primary": "#A5FB7E",
+        "secondary": "#9EFAA5",
+        "accent": "#C6FBDE"
+      },
+      "animationStyle": "glacierWhorl",
+      "duration": 9088
+    },
+    {
+      "id": 186,
+      "name": "LUNAR PILLAR",
+      "type": "exoplanet",
+      "colorPalette": {
+        "primary": "#7E80FB",
+        "secondary": "#C09EFA",
+        "accent": "#EEC6FB"
+      },
+      "animationStyle": "celestialSerenade",
+      "duration": 7690
+    },
+    {
+      "id": 187,
+      "name": "INFINITE FIRING",
+      "type": "cloud",
+      "colorPalette": {
+        "primary": "#FBA17E",
+        "secondary": "#FADB9E",
+        "accent": "#F9FBC6"
+      },
+      "animationStyle": "echoSwell",
+      "duration": 5150
+    },
+    {
+      "id": 188,
+      "name": "ORBITAL CANOPY",
+      "type": "burst",
+      "colorPalette": {
+        "primary": "#7EFBC5",
+        "secondary": "#9EFAF5",
+        "accent": "#C6E9FB"
+      },
+      "animationStyle": "sparkTide",
+      "duration": 5065
+    },
+    {
+      "id": 189,
+      "name": "AERIAL ARCH",
+      "type": "belt",
+      "colorPalette": {
+        "primary": "#E97EFB",
+        "secondary": "#FA9EE4",
+        "accent": "#FBC6DA"
+      },
+      "animationStyle": "chronoSwell",
+      "duration": 8796
+    },
+    {
+      "id": 190,
+      "name": "BINARY VECTOR",
+      "type": "star",
+      "colorPalette": {
+        "primary": "#E8FB7E",
+        "secondary": "#C9FA9E",
+        "accent": "#CAFBC6"
+      },
+      "animationStyle": "novaCircuit",
+      "duration": 4998
+    },
+    {
+      "id": 191,
+      "name": "CORONAL ORBIT",
+      "type": "pulsar",
+      "colorPalette": {
+        "primary": "#7EC4FB",
+        "secondary": "#9EAEFA",
+        "accent": "#D1C6FB"
+      },
+      "animationStyle": "auricRibbon",
+      "duration": 9256
+    },
+    {
+      "id": 192,
+      "name": "DRIFTING LAGOON",
+      "type": "stream",
+      "colorPalette": {
+        "primary": "#FB7EA0",
+        "secondary": "#FAA99E",
+        "accent": "#FBE0C6"
+      },
+      "animationStyle": "tidalRoam",
+      "duration": 7906
+    },
+    {
+      "id": 193,
+      "name": "SYZYGY BRIDGE",
+      "type": "background",
+      "colorPalette": {
+        "primary": "#7EFB82",
+        "secondary": "#9EFAC4",
+        "accent": "#C6FBF0"
+      },
+      "animationStyle": "orionWave",
+      "duration": 6198
+    },
+    {
+      "id": 194,
+      "name": "ZENITH CONCERTO",
+      "type": "supercluster",
+      "colorPalette": {
+        "primary": "#A67EFB",
+        "secondary": "#DE9EFA",
+        "accent": "#FBC6F6"
+      },
+      "animationStyle": "resonantReach",
+      "duration": 7064
+    },
+    {
+      "id": 195,
+      "name": "GOLDEN SANCTUM",
+      "type": "galaxy",
+      "colorPalette": {
+        "primary": "#FBCA7E",
+        "secondary": "#FAF99E",
+        "accent": "#E7FBC6"
+      },
+      "animationStyle": "phaseWhisper",
+      "duration": 8834
+    },
+    {
+      "id": 196,
+      "name": "CATHEDRAL LUMEN",
+      "type": "quasar",
+      "colorPalette": {
+        "primary": "#7EFBEF",
+        "secondary": "#9EE0FA",
+        "accent": "#C6D8FB"
+      },
+      "animationStyle": "silicaFlight",
+      "duration": 6415
+    },
+    {
+      "id": 197,
+      "name": "SHIMMERING TRIDENT",
+      "type": "phenomena",
+      "colorPalette": {
+        "primary": "#FB7EE3",
+        "secondary": "#FA9EC5",
+        "accent": "#FBC6C8"
+      },
+      "animationStyle": "glowBloom",
+      "duration": 9055
+    },
+    {
+      "id": 198,
+      "name": "CHROMA ORCHID",
+      "type": "browndwarf",
+      "colorPalette": {
+        "primary": "#BFFB7E",
+        "secondary": "#AAFA9E",
+        "accent": "#C6FBD3"
+      },
+      "animationStyle": "solarCascade",
+      "duration": 7222
+    },
+    {
+      "id": 199,
+      "name": "RIPPLING FRACTURE",
+      "type": "meteoroid",
+      "colorPalette": {
+        "primary": "#7E9AFB",
+        "secondary": "#AD9EFA",
+        "accent": "#E3C6FB"
+      },
+      "animationStyle": "tesseractHalo",
+      "duration": 7612
+    },
+    {
+      "id": 200,
+      "name": "GALACTIC VEIL",
+      "type": "supernova",
+      "colorPalette": {
+        "primary": "#FB877E",
+        "secondary": "#FAC89E",
+        "accent": "#FBF2C6"
+      },
+      "animationStyle": "zenithAria",
+      "duration": 9033
+    },
+    {
+      "id": 201,
+      "name": "SOLARIS SHORE",
+      "type": "moon",
+      "colorPalette": {
+        "primary": "#7EFBAB",
+        "secondary": "#9EFAE2",
+        "accent": "#C6F4FB"
+      },
+      "animationStyle": "vortexChorus",
+      "duration": 5213
+    },
+    {
+      "id": 202,
+      "name": "NEBULIC GATE",
+      "type": "magnetar",
+      "colorPalette": {
+        "primary": "#D07EFB",
+        "secondary": "#FA9EF7",
+        "accent": "#FBC6E5"
+      },
+      "animationStyle": "velociReach",
+      "duration": 8036
+    },
+    {
+      "id": 203,
+      "name": "CRIMSON CORONA",
+      "type": "boundary",
+      "colorPalette": {
+        "primary": "#FBF47E",
+        "secondary": "#DCFA9E",
+        "accent": "#D5FBC6"
+      },
+      "animationStyle": "astroSerenade",
+      "duration": 8668
+    },
+    {
+      "id": 204,
+      "name": "VERDANT SPOOL",
+      "type": "blackhole",
+      "colorPalette": {
+        "primary": "#7EDEFB",
+        "secondary": "#9EC1FA",
+        "accent": "#C6C6FB"
+      },
+      "animationStyle": "velociRay",
+      "duration": 8651
+    },
+    {
+      "id": 205,
+      "name": "IONIZED FRACTURE",
+      "type": "rings",
+      "colorPalette": {
+        "primary": "#FB7EB9",
+        "secondary": "#FA9EA6",
+        "accent": "#FBD6C6"
+      },
+      "animationStyle": "zenTide",
+      "duration": 7433
+    },
+    {
+      "id": 206,
+      "name": "IONIC TIDE",
+      "type": "structure",
+      "colorPalette": {
+        "primary": "#95FB7E",
+        "secondary": "#9EFAB1",
+        "accent": "#C6FBE5"
+      },
+      "animationStyle": "novaSpin",
+      "duration": 6104
+    },
+    {
+      "id": 207,
+      "name": "AURORAL PYRE",
+      "type": "core",
+      "colorPalette": {
+        "primary": "#8C7EFB",
+        "secondary": "#CB9EFA",
+        "accent": "#F4C6FB"
+      },
+      "animationStyle": "polarisFlux",
+      "duration": 5074
+    },
+    {
+      "id": 208,
+      "name": "NEBULAR NEXUS",
+      "type": "dwarfplanet",
+      "colorPalette": {
+        "primary": "#FBB17E",
+        "secondary": "#FAE69E",
+        "accent": "#F2FBC6"
+      },
+      "animationStyle": "crystalPath",
+      "duration": 6579
+    },
+    {
+      "id": 209,
+      "name": "RAYSYNC FRACTAL",
+      "type": "nebula",
+      "colorPalette": {
+        "primary": "#7EFBD5",
+        "secondary": "#9EF3FA",
+        "accent": "#C6E2FB"
+      },
+      "animationStyle": "solisCurrent",
+      "duration": 5609
+    },
+    {
+      "id": 210,
+      "name": "LUMINOUS CORONA",
+      "type": "sun",
+      "colorPalette": {
+        "primary": "#F97EFB",
+        "secondary": "#FA9ED8",
+        "accent": "#FBC6D3"
+      },
+      "animationStyle": "zenithFlight",
+      "duration": 5367
+    },
+    {
+      "id": 211,
+      "name": "PLASMA VALE",
+      "type": "rogueplanet",
+      "colorPalette": {
+        "primary": "#D8FB7E",
+        "secondary": "#BDFA9E",
+        "accent": "#C6FBC8"
+      },
+      "animationStyle": "magnaCurrent",
+      "duration": 5941
+    },
+    {
+      "id": 212,
+      "name": "BINARY WAVE",
+      "type": "halo",
+      "colorPalette": {
+        "primary": "#7EB4FB",
+        "secondary": "#9EA2FA",
+        "accent": "#D8C6FB"
+      },
+      "animationStyle": "driftBloom",
+      "duration": 4892
+    },
+    {
+      "id": 213,
+      "name": "NEBULIC ABYSS",
+      "type": "frb",
+      "colorPalette": {
+        "primary": "#FB7E90",
+        "secondary": "#FAB59E",
+        "accent": "#FBE7C6"
+      },
+      "animationStyle": "phoenixWhorl",
+      "duration": 6712
+    },
+    {
+      "id": 214,
+      "name": "OBSIDIAN WYRM",
+      "type": "cluster",
+      "colorPalette": {
+        "primary": "#7EFB91",
+        "secondary": "#9EFACF",
+        "accent": "#C6FBF7"
+      },
+      "animationStyle": "bandCascade",
+      "duration": 7774
+    },
+    {
+      "id": 215,
+      "name": "MAGNETIC NIMBUS",
+      "type": "asteroid",
+      "colorPalette": {
+        "primary": "#B67EFB",
+        "secondary": "#EA9EFA",
+        "accent": "#FBC6F0"
+      },
+      "animationStyle": "arcCurrent",
+      "duration": 7160
+    },
+    {
+      "id": 216,
+      "name": "POLAR PORTAL",
+      "type": "wave",
+      "colorPalette": {
+        "primary": "#FBDA7E",
+        "secondary": "#EFFA9E",
+        "accent": "#E0FBC6"
+      },
+      "animationStyle": "astroBloom",
+      "duration": 6567
+    },
+    {
+      "id": 217,
+      "name": "GHOST COLUMN",
+      "type": "void",
+      "colorPalette": {
+        "primary": "#7EF7FB",
+        "secondary": "#9ED4FA",
+        "accent": "#C6D1FB"
+      },
+      "animationStyle": "silicaFlux",
+      "duration": 5386
+    },
+    {
+      "id": 218,
+      "name": "INCANDESCENT VECTOR",
+      "type": "comet",
+      "colorPalette": {
+        "primary": "#FB7ED3",
+        "secondary": "#FA9EB9",
+        "accent": "#FBCBC6"
+      },
+      "animationStyle": "zenicLattice",
+      "duration": 8327
+    },
+    {
+      "id": 219,
+      "name": "MAGNETIC MONOLITH",
+      "type": "exoplanet",
+      "colorPalette": {
+        "primary": "#AFFB7E",
+        "secondary": "#9EFA9E",
+        "accent": "#C6FBDA"
+      },
+      "animationStyle": "echoOrbit",
+      "duration": 8433
+    },
+    {
+      "id": 220,
+      "name": "NEBULIC MONOLITH",
+      "type": "cloud",
+      "colorPalette": {
+        "primary": "#7E8AFB",
+        "secondary": "#B89EFA",
+        "accent": "#E9C6FB"
+      },
+      "animationStyle": "auricSwell",
+      "duration": 8646
+    },
+    {
+      "id": 221,
+      "name": "MAGNETIC HARMONY",
+      "type": "burst",
+      "colorPalette": {
+        "primary": "#FB977E",
+        "secondary": "#FAD39E",
+        "accent": "#FBF9C6"
+      },
+      "animationStyle": "arcArc",
+      "duration": 8585
+    },
+    {
+      "id": 222,
+      "name": "AZURE HALATION",
+      "type": "belt",
+      "colorPalette": {
+        "primary": "#7EFBBB",
+        "secondary": "#9EFAEE",
+        "accent": "#C6EDFB"
+      },
+      "animationStyle": "velociSurge",
+      "duration": 8490
+    },
+    {
+      "id": 223,
+      "name": "LYRIC MATRIX",
+      "type": "star",
+      "colorPalette": {
+        "primary": "#E07EFB",
+        "secondary": "#FA9EEB",
+        "accent": "#FBC6DE"
+      },
+      "animationStyle": "ionHalo",
+      "duration": 5736
+    },
+    {
+      "id": 224,
+      "name": "FOCAL VEIL",
+      "type": "pulsar",
+      "colorPalette": {
+        "primary": "#F2FB7E",
+        "secondary": "#D0FA9E",
+        "accent": "#CFFBC6"
+      },
+      "animationStyle": "keplerPulse",
+      "duration": 7787
+    },
+    {
+      "id": 225,
+      "name": "ORBITING GATE",
+      "type": "stream",
+      "colorPalette": {
+        "primary": "#7ECEFB",
+        "secondary": "#9EB5FA",
+        "accent": "#CDC6FB"
+      },
+      "animationStyle": "resonantBeam",
+      "duration": 5560
+    },
+    {
+      "id": 226,
+      "name": "HORIZON SPOOL",
+      "type": "background",
+      "colorPalette": {
+        "primary": "#FB7EA9",
+        "secondary": "#FAA29E",
+        "accent": "#FBDCC6"
+      },
+      "animationStyle": "vortexFlux",
+      "duration": 7805
+    },
+    {
+      "id": 227,
+      "name": "CORONAL CITADEL",
+      "type": "supercluster",
+      "colorPalette": {
+        "primary": "#85FB7E",
+        "secondary": "#9EFABC",
+        "accent": "#C6FBEC"
+      },
+      "animationStyle": "vortexSpark",
+      "duration": 7269
+    },
+    {
+      "id": 228,
+      "name": "APHELION PRISM",
+      "type": "galaxy",
+      "colorPalette": {
+        "primary": "#9C7EFB",
+        "secondary": "#D79EFA",
+        "accent": "#FBC6FA"
+      },
+      "animationStyle": "silicaFlare",
+      "duration": 7936
+    },
+    {
+      "id": 229,
+      "name": "VERDANT GLACIER",
+      "type": "quasar",
+      "colorPalette": {
+        "primary": "#FBC07E",
+        "secondary": "#FAF29E",
+        "accent": "#EBFBC6"
+      },
+      "animationStyle": "magnaReach",
+      "duration": 9188
+    },
+    {
+      "id": 230,
+      "name": "PRISMATIC NEBULA",
+      "type": "phenomena",
+      "colorPalette": {
+        "primary": "#7EFBE5",
+        "secondary": "#9EE7FA",
+        "accent": "#C6DCFB"
+      },
+      "animationStyle": "luminaCurrent",
+      "duration": 7864
     }
   ]
 }
