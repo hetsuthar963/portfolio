@@ -5,7 +5,7 @@ import { Analytics } from '@vercel/analytics/next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'Cosimc CV',
+  title: 'Portfolio - Het Suthar',
   description: 'Created with 🔥',
   generator: 'v0.app',
 }
