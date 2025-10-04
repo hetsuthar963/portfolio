@@ -8,6 +8,10 @@ export const metadata: Metadata = {
   title: 'Portfolio - Het Suthar',
   description: 'Created with 🔥',
   generator: 'v0.app',
+  icons: {
+        icon: '/x-logo-favicon.svg', // Path to your favicon
+        apple: '/apple-icon.png', // Optional: Path to Apple touch icon
+      },
 }
 
 export default function RootLayout({
