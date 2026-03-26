@@ -30,7 +30,10 @@ export default function ResumePage() {
             <header className="space-y-1">
   {/* <h1 className="text-base text-cyan-400 tracking-[0.4em] uppercase">cosmic.cv</h1> */}
   <h1 className="mt-2 text-3xl text-purple-300">Het Suthar</h1>
-  <p className="text-sm text-slate-400">Full Stack + AI Developer · DevOps Enthusiast </p>
+  <p className="text-sm text-slate-400">Full-Stack Developer · AI/ML Integrations</p>
+  <p className="mt-4 text-sm text-slate-300 leading-relaxed">
+    Full-stack developer graduating in 2026, with hands-on experience shipping a production AI SaaS platform which is government grant-backed, 50+ users in the first month. Comfortable building across the stack API design, PostgreSQL, cloud deployment, and monitoring. Use AI tools like Claude and Cursor daily to move faster, and have built production LLM integrations and a RAG pipeline from scratch.
+  </p>
 </header>
 
 <section className="cosmic-section" aria-label="Education">
@@ -39,7 +42,8 @@ export default function ResumePage() {
     <li>
       <strong>B.E. in Information Technology</strong><br />
       Sardar Vallabhbhai Patel Institute of Technology, Gujarat<br />
-      <span className="text-slate-400">July 2022 – Present · CGPA: 7.50</span>
+      <span className="text-slate-400">July 2022 – Present (Expected Graduation: 2026) · CGPA: 7.73</span><br />
+      <span className="text-slate-400 text-xs"><strong>Coursework:</strong> Object Oriented Programming (Java), Data Structures and Algorithms, Computer Networks, Database Management Systems, Operating Systems, Data Science, Web Development</span>
     </li>
   </ul>
 </section>
@@ -47,11 +51,29 @@ export default function ResumePage() {
 <section className="cosmic-section" aria-label="Skills">
   <h2 className="cosmic-heading">Skills</h2>
   <ul className="cosmic-list">
-    <li><strong>Languages:</strong> Java (Inter.), Python (Inter.), JavaScript (Prof.), TypeScript (Begin.)</li>
-    <li><strong>Frameworks/Libraries:</strong> Next.js, React, Express, Tailwind CSS, Prisma/Drizzle ORM, Zod, MonoRepo</li>
+    <li><strong>Languages:</strong> Python, JavaScript, TypeScript</li>
+    <li><strong>Frontend:</strong> Next.js, React, Tailwind CSS</li>
+    <li><strong>Backend:</strong> FastAPI, Express, Drizzle/Prisma ORM, Zod</li>
     <li><strong>Databases:</strong> MySQL, MongoDB, PostgreSQL</li>
-    <li><strong>Tools:</strong> GitHub, Git, Postman, Cloudflare</li>
-    <li><strong>Cloud/DevOps:</strong> AWS (EC2, S3, Route 53, Elastic IP), Docker</li>
+    <li><strong>Cloud & Infra:</strong> AWS (S3, EC2), Hetzner VPS, Vercel, Cloudflare, Docker, GitHub Actions, DigitalOcean</li>
+    <li><strong>Monitoring:</strong> New Relic APM, Prometheus, Grafana</li>
+    <li><strong>AI/ML:</strong> RAG pipelines, vector search (Pinecone), LLM APIs</li>
+  </ul>
+</section>
+
+<section className="cosmic-section" aria-label="Experience">
+  <h2 className="cosmic-heading">Experience</h2>
+  <ul className="cosmic-list">
+    <li>
+      <strong>Xvertice — Project Owner & Full-Stack Lead</strong><br />
+      <span className="text-slate-400">Feb 2025 – Jan 2026 · SSIP Grant, Government of Gujarat</span>
+      <ul className="mt-2 space-y-1 list-disc list-outside ml-4 text-sm text-slate-300">
+        <li>Secured a Government of Gujarat SSIP grant and led a 4-person team to build and ship an AI-powered image forensics SaaS that reached 50+ users, with 250+ forensic analyses processed and 2,300+ page views within the first 30 days of launch.</li>
+        <li>Built the entire Next.js + TypeScript platform end-to-end along with all the API routes, PostgreSQL schema with Drizzle ORM, NeonDB as Database Host along with middleware-based auth with route protection using Clerk Auth.</li>
+        <li>Deployed and integrated a Python FastAPI that contains CNN analysis and 12 forensic tests on Hetzner VPS by applying the strategy of Horizontal scaling via multiple Uvicorn workers managed by Gunicorn for parallel processing.</li>
+        <li>Integrated a streaming AI pipeline (DeepSeek Reasoner), as well as reverse search API (Google, OpenWeb, TinyEye) with zod validation and AWS S3 as object storage.</li>
+      </ul>
+    </li>
   </ul>
 </section>
 
@@ -59,13 +81,26 @@ export default function ResumePage() {
   <h2 className="cosmic-heading">Projects</h2>
   <ul className="cosmic-list">
     <li>
-      <strong>RAG Project – Talk to Your Data</strong> — Built a GenAI app that lets users chat with PDFs and extract repeated questions using Gemini + Pinecone RAG. Integrated Clerk for auth, AWS S3 for secure file storage, and Drizzle ORM with Neon for chat persistence. Full-stack: Next.js, TypeScript, TailwindCSS.
+      <strong>Talk To Your Data — RAG Document Q/A</strong>
+      <ul className="mt-1 space-y-1 list-disc list-outside ml-4 text-sm text-slate-300">
+        <li>Developed a full-stack RAG pipeline enabling real-time chat with PDF documents using Gemini LLM and Pinecone vector database.</li>
+        <li>Optimized data ingestion by implementing custom document chunking and AWS S3 object storage to handle high-density files.</li>
+        <li>Built with Next.js and Drizzle ORM; enforced data integrity with a relational schema and secured user data via authentication middleware.</li>
+      </ul>
     </li>
-    <li>
-      <strong>LLM-Powered Job Scraper</strong> — Chrome extension using JavaScript to scrape LinkedIn jobs, send to Node.js + Express backend. REST APIs store data in MongoDB and summarize content using OpenAI/Gemini. React + Vite dashboard deployed on AWS EC2 with Nginx.
+    <li className="mt-4">
+      <strong>LLM Job Scraper — Chrome Extension + Dashboard</strong>
+      <ul className="mt-1 space-y-1 list-disc list-outside ml-4 text-sm text-slate-300">
+        <li>Built a Chrome extension that scrapes LinkedIn job listings to a Node.js + Express backend with MongoDB storage.</li>
+        <li>LLM summarization on a React dashboard for filtering and ranking jobs deployed on AWS EC2.</li>
+      </ul>
     </li>
-    <li>
-      <strong>OnBlogs</strong> — Blogging platform built with React, Cloudflare Workers, PostgreSQL, Prisma ORM, and JWT. Ensures type-safe, secure, scalable blogging experience.
+    <li className="mt-4">
+      <strong>OnBlogs</strong>
+      <ul className="mt-1 space-y-1 list-disc list-outside ml-4 text-sm text-slate-300">
+        <li>Developed a minimal blogging platform with a rich-text editor using Next.js and TypeScript.</li>
+        <li>Implemented secure user authentication using BetterAuth lib with PostgreSQL, via Drizzle ORM.</li>
+      </ul>
     </li>
   </ul>
 </section>
@@ -73,9 +108,8 @@ export default function ResumePage() {
 <section className="cosmic-section" aria-label="Honors and Certificates">
   <h2 className="cosmic-heading">Honors & Certificates</h2>
   <ul className="cosmic-list">
-    <li>Government-Recognized SSIP Grant (AI document fraud detection) — leading 3-member team to build MVP</li>
-    <li>HackBangalore Finalist — Participated in AngleHacks Global Hackathon series</li>
-    <li>Ranked 9th — Departmental Mock Placement Round (SVIT IT)</li>
+    <li>SSIP Grant Recipient — Government of Gujarat, Govt. Recognised Project</li>
+    <li>HackBangalore 2nd Round Qualifier — AngelHacks Global Hackathon Series, Bangalore</li>
   </ul>
 </section>
 
