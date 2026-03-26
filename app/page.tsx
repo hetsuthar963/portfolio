@@ -49,16 +49,58 @@ export default function ResumePage() {
 </section>
 
 <section className="cosmic-section" aria-label="Skills">
-  <h2 className="cosmic-heading">Skills</h2>
-  <ul className="cosmic-list">
-    <li><strong>Languages:</strong> Python, JavaScript, TypeScript</li>
-    <li><strong>Frontend:</strong> Next.js, React, Tailwind CSS</li>
-    <li><strong>Backend:</strong> FastAPI, Express, Drizzle/Prisma ORM, Zod</li>
-    <li><strong>Databases:</strong> MySQL, MongoDB, PostgreSQL</li>
-    <li><strong>Cloud & Infra:</strong> AWS (S3, EC2), Hetzner VPS, Vercel, Cloudflare, Docker, GitHub Actions, DigitalOcean</li>
-    <li><strong>Monitoring:</strong> New Relic APM, Prometheus, Grafana</li>
-    <li><strong>AI/ML:</strong> RAG pipelines, vector search (Pinecone), LLM APIs</li>
-  </ul>
+  <h2 className="cosmic-heading">Skills & Tools</h2>
+  <div className="flex flex-col gap-4 mt-4">
+    <div className="space-y-2">
+      <h3 className="text-sm font-semibold text-slate-300">Languages & Frontend</h3>
+      <div className="flex flex-wrap gap-2">
+        <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" className="h-6" />
+        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" className="h-6" />
+        <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="Python" className="h-6" />
+        <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white" alt="Next.js" className="h-6" />
+        <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" alt="React" className="h-6" />
+        <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS" className="h-6" />
+      </div>
+    </div>
+
+    <div className="space-y-2">
+      <h3 className="text-sm font-semibold text-slate-300">Backend & Databases</h3>
+      <div className="flex flex-wrap gap-2">
+        <img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js" className="h-6" />
+        <img src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI" className="h-6" />
+        <img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white" alt="Express" className="h-6" />
+        <img src="https://img.shields.io/badge/-Hono-FF9990?logo=hono&logoColor=white" alt="Hono" className="h-6" />
+        <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL" className="h-6" />
+        <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB" className="h-6" />
+        <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" className="h-6" />
+        <img src="https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white" alt="Prisma" className="h-6" />
+        <img src="https://img.shields.io/badge/-Drizzle-C5F74F?logo=drizzle&logoColor=black" alt="Drizzle" className="h-6" />
+      </div>
+    </div>
+
+    <div className="space-y-2">
+      <h3 className="text-sm font-semibold text-slate-300">Cloud & DevOps</h3>
+      <div className="flex flex-wrap gap-2">
+        <img src="https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&logoColor=white" alt="AWS" className="h-6" />
+        <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" alt="Docker" className="h-6" />
+        <img src="https://img.shields.io/badge/-Cloudflare-F38020?logo=cloudflare&logoColor=white" alt="Cloudflare" className="h-6" />
+        <img src="https://img.shields.io/badge/-DigitalOcean-2796ED?logo=digitalocean&logoColor=white" alt="DigitalOcean" className="h-6" />
+        <img src="https://img.shields.io/badge/-Hetzner-D50C2D?logo=hetzner&logoColor=white" alt="Hetzner" className="h-6" />
+        <img src="https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white" alt="Vercel" className="h-6" />
+        <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white" alt="GitHub Actions" className="h-6" />
+      </div>
+    </div>
+
+    <div className="space-y-2">
+      <h3 className="text-sm font-semibold text-slate-300">Monitoring & AI/ML</h3>
+      <div className="flex flex-wrap gap-2">
+        <img src="https://img.shields.io/badge/-New_Relic-008C99?logo=newrelic&logoColor=white" alt="New Relic" className="h-6" />
+        <img src="https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white" alt="Prometheus" className="h-6" />
+        <img src="https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white" alt="Grafana" className="h-6" />
+        <img src="https://img.shields.io/badge/-Pinecone-000000?logo=pinecone&logoColor=white" alt="Pinecone" className="h-6" />
+      </div>
+    </div>
+  </div>
 </section>
 
 <section className="cosmic-section" aria-label="Experience">
